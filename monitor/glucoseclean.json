@@ -1,0 +1,47 @@
+[
+  {
+    "glucose": 100, 
+    "display_time": "2016-03-20T18:04:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "packet_size": 0, 
+    "op": 50
+  }, 
+  {
+    "glucose": 102, 
+    "display_time": "2016-03-20T17:59:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 3, 
+    "packet_size": 0, 
+    "op": 51
+  }, 
+  {
+    "glucose": 104, 
+    "display_time": "2016-03-20T17:54:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 4, 
+    "packet_size": 0, 
+    "op": 52
+  }, 
+  {
+    "glucose": 106, 
+    "display_time": "2016-03-20T17:49:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 5, 
+    "packet_size": 0, 
+    "op": 53
+  }, 
+  {
+    "glucose": 108, 
+    "display_time": "2016-03-20T17:44:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 6, 
+    "packet_size": 0, 
+    "op": 54
+  }
+]
