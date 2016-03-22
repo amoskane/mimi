@@ -1,47 +1,47 @@
 [
   {
-    "glucose": 202, 
-    "display_time": "2016-03-21T21:56:00", 
+    "glucose": 206, 
+    "display_time": "2016-03-21T22:21:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 2, 
     "packet_size": 0, 
-    "op": 101
+    "op": 103
   }, 
   {
-    "glucose": 202, 
-    "display_time": "2016-03-21T21:51:00", 
+    "glucose": 206, 
+    "display_time": "2016-03-21T22:16:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 3, 
     "packet_size": 0, 
-    "op": 101
+    "op": 103
   }, 
   {
-    "glucose": 200, 
-    "display_time": "2016-03-21T21:46:00", 
+    "glucose": 206, 
+    "display_time": "2016-03-21T22:11:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 4, 
     "packet_size": 0, 
-    "op": 100
+    "op": 103
   }, 
   {
-    "glucose": 200, 
-    "display_time": "2016-03-21T21:41:00", 
+    "glucose": 204, 
+    "display_time": "2016-03-21T22:06:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 5, 
     "packet_size": 0, 
-    "op": 100
+    "op": 102
   }, 
   {
-    "glucose": 200, 
-    "display_time": "2016-03-21T21:36:00", 
+    "glucose": 202, 
+    "display_time": "2016-03-21T22:01:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 6, 
     "packet_size": 0, 
-    "op": 100
+    "op": 101
   }
 ]
