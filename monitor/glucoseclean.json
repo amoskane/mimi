@@ -1,10 +1,19 @@
 [
   {
+    "glucose": 178, 
+    "display_time": "2016-03-21T21:11:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "packet_size": 0, 
+    "op": 89
+  }, 
+  {
     "glucose": 176, 
     "display_time": "2016-03-21T21:06:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 2, 
+    "_tell": 3, 
     "packet_size": 0, 
     "op": 88
   }, 
@@ -13,7 +22,7 @@
     "display_time": "2016-03-21T21:06:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 10, 
+    "_tell": 11, 
     "packet_size": 0, 
     "op": 87
   }, 
@@ -22,7 +31,7 @@
     "display_time": "2016-03-21T20:48:00", 
     "name": "CalBGForGH", 
     "date_type": "minSpecific", 
-    "_tell": 15, 
+    "_tell": 16, 
     "packet_size": 5, 
     "raw": "14-f0-15-90-af", 
     "glucose": 175, 
