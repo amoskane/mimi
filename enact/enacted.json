@@ -7,7 +7,7 @@
   "bg": 202, 
   "temp": "percent", 
   "snoozeBG": 204, 
-  "timestamp": "2016-03-21T22:00:24.193616", 
+  "timestamp": "2016-03-21T22:03:25.252099", 
   "rate": 130, 
   "reason": "max_iob 2, adj. req. rate:4.9 to maxSafeBasal:2.0, no temp, setting 2U/hr", 
   "eventualBG": 204, 
