@@ -1,22 +1,17 @@
 {
-  "bg": 200, 
-  "temp": "absolute", 
-  "snoozeBG": 163, 
-  "timestamp": "2016-03-21T21:52:32.426888", 
-  "missing": [
-    "duration", 
-    "rate"
-  ], 
-  "reason": "Eventual BG 163>90 but Delta +0 < Exp. Delta 12.4; no temp to cancel", 
-  "eventualBG": 163, 
-  "error": "missing required input fields", 
-  "input": {
-    "reason": "Eventual BG 163>90 but Delta +0 < Exp. Delta 12.4; no temp to cancel", 
-    "bg": 200, 
-    "eventualBG": 163, 
-    "temp": "absolute", 
-    "snoozeBG": 163, 
-    "tick": "+0"
+  "requested": {
+    "duration": 30, 
+    "rate": 2, 
+    "temp": "absolute"
   }, 
+  "bg": 202, 
+  "temp": "percent", 
+  "snoozeBG": 204, 
+  "timestamp": "2016-03-21T22:00:24.193616", 
+  "rate": 130, 
+  "reason": "max_iob 2, adj. req. rate:4.9 to maxSafeBasal:2.0, no temp, setting 2U/hr", 
+  "eventualBG": 204, 
+  "recieved": false, 
+  "duration": 0, 
   "tick": "+0"
 }
