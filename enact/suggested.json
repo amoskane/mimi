@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":208,"tick":"+2","eventualBG":201,"snoozeBG":201,"reason":"max_iob 2, adj. req. rate:4.2 to maxSafeBasal:2.0, temp 2 >~ req 2U/hr"}
+{"temp":"absolute","bg":154,"tick":-6,"eventualBG":124,"snoozeBG":124,"reason":"Eventual BG 124>90 but Delta -6 < Exp. Delta -1.4; no temp to cancel"}
