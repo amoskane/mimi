@@ -1,17 +1,12 @@
 {
-  "requested": {
-    "duration": 30, 
-    "rate": 2, 
-    "temp": "absolute"
-  }, 
   "bg": 206, 
-  "temp": "percent", 
-  "snoozeBG": 208, 
-  "timestamp": "2016-03-21T22:24:47.858496", 
-  "rate": 130, 
+  "temp": "absolute", 
+  "snoozeBG": 206, 
+  "recieved": true, 
+  "rate": 2.0, 
   "reason": "max_iob 2, adj. req. rate:4.9 to maxSafeBasal:2.0, no temp, setting 2U/hr", 
-  "eventualBG": 208, 
-  "recieved": false, 
-  "duration": 0, 
+  "eventualBG": 206, 
+  "timestamp": "2016-03-21T22:33:37.419501", 
+  "duration": 30, 
   "tick": "+0"
 }
