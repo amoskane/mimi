@@ -1,12 +1,22 @@
 {
-  "bg": 284, 
+  "bg": 276, 
   "temp": "absolute", 
-  "snoozeBG": 228, 
-  "recieved": true, 
-  "rate": 0.0, 
-  "reason": "basal_iob 2.056 > max_iob 2", 
-  "eventualBG": 228, 
-  "timestamp": "2016-03-23T21:43:21.719790", 
-  "duration": 0, 
+  "snoozeBG": 224, 
+  "timestamp": "2016-03-23T21:57:37.054022", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "Eventual BG 224>90 but Delta -4 < Exp. Delta -0.3; no temp to cancel", 
+  "eventualBG": 224, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "Eventual BG 224>90 but Delta -4 < Exp. Delta -0.3; no temp to cancel", 
+    "bg": 276, 
+    "eventualBG": 224, 
+    "temp": "absolute", 
+    "snoozeBG": 224, 
+    "tick": -4
+  }, 
   "tick": -4
 }
