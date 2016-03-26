@@ -1,0 +1,106 @@
+[
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-03-28T09:33:48 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-03-28T09:33:48", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[5], body[0] op[0x5c]", 
+        "data": [
+          {
+            "amount": 1.2, 
+            "age": 90
+          }
+        ], 
+        "_body": "", 
+        "_head": "5c05305ac0", 
+        "_date": ""
+      }
+    ], 
+    "programmed": 6.8, 
+    "_head": "01444400", 
+    "amount": 6.8, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "30e1491c10"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 0, 
+    "bg_target_high": 140, 
+    "correction_estimate": 0.0, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-03-28T09:33:47 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-03-28T09:33:47", 
+    "_body": "375008145a004400000000448c", 
+    "carb_input": 55, 
+    "_head": "5b00", 
+    "unabsorbed_insulin_total": 0.0, 
+    "_byte[5]": 0, 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "_date": "2fe1091c10", 
+    "bolus_estimate": 6.8, 
+    "unknown_byte[8]": 0, 
+    "carb_ratio": 8, 
+    "food_estimate": 6.8, 
+    "bg_target_low": 90, 
+    "sensitivity": 20
+  }, 
+  {
+    "programmed": 1.2, 
+    "_type": "Bolus", 
+    "type": "normal", 
+    "_description": "Bolus 2016-03-28T08:07:15 head[4], body[0] op[0x01]", 
+    "duration": 0, 
+    "timestamp": "2016-03-28T08:07:15", 
+    "_body": "", 
+    "_head": "010c0c00", 
+    "amount": 1.2, 
+    "_date": "0fc7481c10"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 164, 
+    "bg_target_high": 140, 
+    "correction_estimate": 1.2, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-03-28T08:07:15 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-03-28T08:07:15", 
+    "_body": "005008145a0c00000000000c8c", 
+    "carb_input": 0, 
+    "_head": "5ba4", 
+    "unabsorbed_insulin_total": 0.0, 
+    "_byte[5]": 12, 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "_date": "0fc7081c10", 
+    "bolus_estimate": 1.2, 
+    "unknown_byte[8]": 0, 
+    "carb_ratio": 8, 
+    "food_estimate": 0.0, 
+    "bg_target_low": 90, 
+    "sensitivity": 20
+  }, 
+  {
+    "_type": "BGReceived", 
+    "link": "c6935f", 
+    "_description": "BGReceived 2016-03-28T08:07:10 head[2], body[3] op[0x3f]", 
+    "timestamp": "2016-03-28T08:07:10", 
+    "_body": "c6935f", 
+    "_head": "3f14", 
+    "amount": 164, 
+    "_date": "0ac7887c10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-03-28T08:07:10 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-03-28T08:07:10", 
+    "_body": "", 
+    "_head": "0aa4", 
+    "amount": 164, 
+    "_date": "0ac7287c10"
+  }
+]
