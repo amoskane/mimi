@@ -1,0 +1,55 @@
+[
+  {
+    "packet_size": 0, 
+    "name": "DataEnd", 
+    "date": "2016-03-28T14:45:00", 
+    "date_type": "none", 
+    "_tell": 1, 
+    "op": "0x01"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "sgv": 224, 
+    "date": "2016-03-28T14:40:00", 
+    "packet_size": 0, 
+    "op": 112
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 3, 
+    "sgv": 224, 
+    "date": "2016-03-28T14:35:00", 
+    "packet_size": 0, 
+    "op": 112
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 4, 
+    "sgv": 224, 
+    "date": "2016-03-28T14:30:00", 
+    "packet_size": 0, 
+    "op": 112
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 5, 
+    "sgv": 226, 
+    "date": "2016-03-28T14:25:00", 
+    "packet_size": 0, 
+    "op": 113
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 6, 
+    "sgv": 226, 
+    "date": "2016-03-28T14:20:00", 
+    "packet_size": 0, 
+    "op": 113
+  }
+]
