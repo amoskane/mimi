@@ -2,7 +2,7 @@
   {
     "packet_size": 0, 
     "name": "DataEnd", 
-    "date": "2016-03-28T15:34:00", 
+    "date": "2016-03-28T15:39:00", 
     "date_type": "none", 
     "_tell": 1, 
     "op": "0x01"
@@ -11,6 +11,15 @@
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 2, 
+    "sgv": 252, 
+    "date": "2016-03-28T15:34:00", 
+    "packet_size": 0, 
+    "op": 126
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 3, 
     "sgv": 250, 
     "date": "2016-03-28T15:29:00", 
     "packet_size": 0, 
@@ -19,7 +28,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 3, 
+    "_tell": 4, 
     "sgv": 248, 
     "date": "2016-03-28T15:24:00", 
     "packet_size": 0, 
@@ -31,7 +40,7 @@
     "raw": "0f-d3-1c-10", 
     "date": "2016-03-28T15:19:00", 
     "date_type": "minSpecific", 
-    "_tell": 4, 
+    "_tell": 5, 
     "op": "0x10"
   }, 
   {
@@ -39,16 +48,7 @@
     "name": "DataEnd", 
     "date": "2016-03-28T15:35:00", 
     "date_type": "none", 
-    "_tell": 9, 
-    "op": "0x01"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
     "_tell": 10, 
-    "sgv": 0, 
-    "date": "2016-03-28T15:30:00", 
-    "packet_size": 0, 
-    "op": 0
+    "op": "0x01"
   }
 ]
