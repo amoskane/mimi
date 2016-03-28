@@ -1,17 +1,22 @@
 {
-  "requested": {
-    "duration": 30, 
-    "rate": 2, 
-    "temp": "absolute"
-  }, 
-  "bg": 154, 
+  "bg": 160, 
   "temp": "absolute", 
-  "snoozeBG": 188, 
-  "timestamp": "2016-03-28T13:31:18.363806", 
-  "rate": 0.0, 
-  "reason": "max_iob 2, adj. req. rate:5.1 to maxSafeBasal:2.0, no temp, setting 2U/hr", 
-  "eventualBG": 188, 
-  "recieved": false, 
-  "duration": 0, 
-  "tick": "+8"
+  "snoozeBG": 168, 
+  "timestamp": "2016-03-28T13:36:05.420980", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "113 is in range. No temp required", 
+  "eventualBG": 113, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "113 is in range. No temp required", 
+    "bg": 160, 
+    "eventualBG": 113, 
+    "temp": "absolute", 
+    "snoozeBG": 168, 
+    "tick": "+6"
+  }, 
+  "tick": "+6"
 }
