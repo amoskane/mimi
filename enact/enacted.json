@@ -1,22 +1,12 @@
 {
   "bg": 224, 
   "temp": "absolute", 
-  "snoozeBG": 191, 
-  "timestamp": "2016-03-28T14:36:07.902031", 
-  "missing": [
-    "duration", 
-    "rate"
-  ], 
-  "reason": "130 is in range. No temp required", 
-  "eventualBG": 130, 
-  "error": "missing required input fields", 
-  "input": {
-    "reason": "130 is in range. No temp required", 
-    "bg": 224, 
-    "eventualBG": 130, 
-    "temp": "absolute", 
-    "snoozeBG": 191, 
-    "tick": "+0"
-  }, 
+  "snoozeBG": 190, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "basal_iob 2.644 > max_iob 2", 
+  "eventualBG": 140, 
+  "timestamp": "2016-03-28T14:41:18.559706", 
+  "duration": 0, 
   "tick": "+0"
 }
