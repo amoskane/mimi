@@ -1,11 +1,11 @@
 [
   {
-    "glucose": 244, 
-    "display_time": "2016-03-28T15:20:00", 
+    "glucose": 248, 
+    "display_time": "2016-03-28T15:24:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 10, 
+    "_tell": 2, 
     "packet_size": 0, 
-    "op": 122
+    "op": 124
   }
 ]
