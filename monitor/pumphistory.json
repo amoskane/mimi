@@ -1,0 +1,101 @@
+[
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-03-29T07:02:50 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-29T07:02:50", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "32c2075d10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-29T07:02:50 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-29T07:02:50", 
+    "_body": "00", 
+    "_head": "339c", 
+    "rate": 3.9, 
+    "_date": "32c2075d10"
+  }, 
+  {
+    "programmed": 0.9, 
+    "_type": "Bolus", 
+    "type": "normal", 
+    "_description": "Bolus 2016-03-29T04:55:56 head[4], body[0] op[0x01]", 
+    "duration": 0, 
+    "timestamp": "2016-03-29T04:55:56", 
+    "_body": "", 
+    "_head": "01090900", 
+    "amount": 0.9, 
+    "_date": "38f7441d10"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 168, 
+    "bg_target_high": 140, 
+    "correction_estimate": 0.9, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-03-29T04:55:56 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-03-29T04:55:56", 
+    "_body": "00500a1e5a090000000000098c", 
+    "carb_input": 0, 
+    "_head": "5ba8", 
+    "unabsorbed_insulin_total": 0.0, 
+    "_byte[5]": 9, 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "_date": "38f7041d10", 
+    "bolus_estimate": 0.9, 
+    "unknown_byte[8]": 0, 
+    "carb_ratio": 10, 
+    "food_estimate": 0.0, 
+    "bg_target_low": 90, 
+    "sensitivity": 30
+  }, 
+  {
+    "_type": "BGReceived", 
+    "link": "c6935f", 
+    "_description": "BGReceived 2016-03-29T04:55:41 head[2], body[3] op[0x3f]", 
+    "timestamp": "2016-03-29T04:55:41", 
+    "_body": "c6935f", 
+    "_head": "3f15", 
+    "amount": 168, 
+    "_date": "29f7047d10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-03-29T04:55:41 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-03-29T04:55:41", 
+    "_body": "", 
+    "_head": "0aa8", 
+    "amount": 168, 
+    "_date": "29f7247d10"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-03-29T04:54:29 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-03-29T04:54:29", 
+    "_body": "", 
+    "_head": "1a01", 
+    "_date": "1df6041d10"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-03-29T04:52:18 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-03-29T04:52:18", 
+    "_body": "", 
+    "_head": "1a00", 
+    "_date": "12f4041d10"
+  }, 
+  {
+    "_type": "AlarmSensor", 
+    "alarm_description": "Weak Signal", 
+    "_description": "AlarmSensor 2016-03-29T04:32:18 head[3], body[0] op[0x0b]", 
+    "alarm_type": 112, 
+    "timestamp": "2016-03-29T04:32:18", 
+    "_body": "", 
+    "_head": "0b7000", 
+    "_date": "12e024bd10"
+  }
+]
