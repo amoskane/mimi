@@ -1,22 +1,12 @@
 {
-  "bg": 176, 
+  "bg": 180, 
   "temp": "absolute", 
-  "snoozeBG": 139, 
-  "timestamp": "2016-03-28T22:13:05.120960", 
-  "missing": [
-    "duration", 
-    "rate"
-  ], 
-  "reason": "139 is in range. No temp required", 
-  "eventualBG": 139, 
-  "error": "missing required input fields", 
-  "input": {
-    "reason": "139 is in range. No temp required", 
-    "bg": 176, 
-    "eventualBG": 139, 
-    "temp": "absolute", 
-    "snoozeBG": 139, 
-    "tick": "+0"
-  }, 
-  "tick": "+0"
+  "snoozeBG": 149, 
+  "recieved": true, 
+  "rate": 3.125, 
+  "reason": "Eventual BG 149>140, no temp, setting 3.167U/hr", 
+  "eventualBG": 149, 
+  "timestamp": "2016-03-28T22:19:04.541813", 
+  "duration": 30, 
+  "tick": "+2"
 }
