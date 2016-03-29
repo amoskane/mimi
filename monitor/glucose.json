@@ -1,12 +1,23 @@
 [
   {
+    "body": "99", 
+    "packet_size": 5, 
+    "amount": 153, 
+    "name": "CalBGForGH", 
+    "raw": "17-f6-1c-90-99", 
+    "date": "2016-03-28T23:54:00", 
+    "date_type": "minSpecific", 
+    "_tell": 2, 
+    "op": "0x0e"
+  }, 
+  {
     "body": "", 
     "packet_size": 4, 
     "name": "SensorSync", 
     "raw": "17-ee-3c-10", 
     "date": "2016-03-28T23:46:00", 
     "date_type": "minSpecific", 
-    "_tell": 4, 
+    "_tell": 10, 
     "op": "0x0d"
   }, 
   {
@@ -16,7 +27,7 @@
     "raw": "17-ee-5c-10", 
     "date": "2016-03-28T23:46:00", 
     "date_type": "minSpecific", 
-    "_tell": 9, 
+    "_tell": 15, 
     "op": "0x0b"
   }, 
   {
@@ -34,7 +45,7 @@
     "raw": "00", 
     "date": "2016-03-28T23:50:00", 
     "date_type": "prevTimestamp", 
-    "_tell": 2, 
+    "_tell": 8, 
     "op": "0x03"
   }, 
   {
@@ -43,13 +54,7 @@
     "raw": "17-ed-5c-10", 
     "date": "2016-03-28T23:45:00", 
     "date_type": "minSpecific", 
-    "_tell": 14, 
+    "_tell": 20, 
     "op": "0x08"
-  }, 
-  {
-    "op": 5, 
-    "_tell": 19, 
-    "name": "Could Not Decode", 
-    "packet_size": 0
   }
 ]
