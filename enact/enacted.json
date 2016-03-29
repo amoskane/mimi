@@ -1,12 +1,22 @@
 {
   "bg": 196, 
   "temp": "absolute", 
-  "snoozeBG": 162, 
-  "recieved": true, 
-  "rate": 2.0, 
-  "reason": "Eventual BG 158>140, adj. req. rate:2.3 to maxSafeBasal:2.0, temp 1.175<2U/hr", 
-  "eventualBG": 158, 
-  "timestamp": "2016-03-28T17:31:08.149161", 
-  "duration": 30, 
-  "tick": -2
+  "snoozeBG": 169, 
+  "timestamp": "2016-03-28T17:34:06.562136", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "max_iob 2, adj. req. rate:2.6 to maxSafeBasal:2.0, temp 2 >~ req 2U/hr", 
+  "eventualBG": 167, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "max_iob 2, adj. req. rate:2.6 to maxSafeBasal:2.0, temp 2 >~ req 2U/hr", 
+    "bg": 196, 
+    "eventualBG": 167, 
+    "temp": "absolute", 
+    "snoozeBG": 169, 
+    "tick": "+0"
+  }, 
+  "tick": "+0"
 }
