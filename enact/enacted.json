@@ -1,8 +1,8 @@
 {
   "bg": 196, 
   "temp": "absolute", 
-  "snoozeBG": 169, 
-  "timestamp": "2016-03-28T17:34:06.562136", 
+  "snoozeBG": 168, 
+  "timestamp": "2016-03-28T17:37:06.697581", 
   "missing": [
     "duration", 
     "rate"
@@ -15,7 +15,7 @@
     "bg": 196, 
     "eventualBG": 167, 
     "temp": "absolute", 
-    "snoozeBG": 169, 
+    "snoozeBG": 168, 
     "tick": "+0"
   }, 
   "tick": "+0"
