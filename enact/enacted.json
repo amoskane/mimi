@@ -2,18 +2,18 @@
   "bg": 122, 
   "temp": "absolute", 
   "snoozeBG": 95, 
-  "timestamp": "2016-03-30T00:31:04.397875", 
+  "timestamp": "2016-03-30T00:34:18.331853", 
   "missing": [
     "duration", 
     "rate"
   ], 
-  "reason": "94 is in range. No temp required", 
-  "eventualBG": 94, 
+  "reason": "95 is in range. No temp required", 
+  "eventualBG": 95, 
   "error": "missing required input fields", 
   "input": {
-    "reason": "94 is in range. No temp required", 
+    "reason": "95 is in range. No temp required", 
     "bg": 122, 
-    "eventualBG": 94, 
+    "eventualBG": 95, 
     "temp": "absolute", 
     "snoozeBG": 95, 
     "tick": "+2"
