@@ -1,0 +1,11 @@
+[
+  {
+    "glucose": 100, 
+    "display_time": "2016-03-31T09:01:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "packet_size": 0, 
+    "op": 50
+  }
+]
