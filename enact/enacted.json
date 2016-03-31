@@ -1,22 +1,22 @@
 {
-  "bg": 96, 
+  "bg": 102, 
   "temp": "absolute", 
-  "snoozeBG": 148, 
-  "timestamp": "2016-03-31T14:40:08.068907", 
+  "snoozeBG": 152, 
+  "timestamp": "2016-03-31T14:43:09.214427", 
   "missing": [
     "duration", 
     "rate"
   ], 
-  "reason": "Eventual BG -8<90, but Delta +8 > Exp. Delta 0.5; no temp to cancel", 
-  "eventualBG": -8, 
+  "reason": "Eventual BG 6<90, but Avg. Delta 6.00 > Exp. Delta -0.1; no temp to cancel", 
+  "eventualBG": 6, 
   "error": "missing required input fields", 
   "input": {
-    "reason": "Eventual BG -8<90, but Delta +8 > Exp. Delta 0.5; no temp to cancel", 
-    "bg": 96, 
-    "eventualBG": -8, 
+    "reason": "Eventual BG 6<90, but Avg. Delta 6.00 > Exp. Delta -0.1; no temp to cancel", 
+    "bg": 102, 
+    "eventualBG": 6, 
     "temp": "absolute", 
-    "snoozeBG": 148, 
-    "tick": "+8"
+    "snoozeBG": 152, 
+    "tick": "+6"
   }, 
-  "tick": "+8"
+  "tick": "+6"
 }
