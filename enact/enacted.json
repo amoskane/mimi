@@ -7,7 +7,7 @@
   "bg": 136, 
   "temp": "absolute", 
   "snoozeBG": 162, 
-  "timestamp": "2016-03-31T09:34:09.691268", 
+  "timestamp": "2016-03-31T09:37:21.760695", 
   "rate": 3.35, 
   "reason": "Eventual BG 162>140, adj. req. rate:6.0 to maxSafeBasal:3.9, no temp, setting 3.9000000000000004U/hr", 
   "eventualBG": 162, 
