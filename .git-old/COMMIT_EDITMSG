@@ -1,0 +1,4 @@
+openaps-report invoke settings/settings.json settings/bg_targets.json settings/insulin_sensitivities.json settings/basal_profile.json settings/profile.json
+
+      TODO: better change descriptions
+      /usr/local/bin/openaps-report invoke settings/settings.json settings/bg_targets.json settings/insulin_sensitivities.json settings/basal_profile.json settings/profile.json
