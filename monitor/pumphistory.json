@@ -1,0 +1,41 @@
+[
+  {
+    "_type": "BGReceived", 
+    "link": "c6935f", 
+    "_description": "BGReceived 2016-03-31T05:51:56 head[2], body[3] op[0x3f]", 
+    "timestamp": "2016-03-31T05:51:56", 
+    "_body": "c6935f", 
+    "_head": "3f0c", 
+    "amount": 97, 
+    "_date": "38f3257f10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-03-31T05:51:56 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-03-31T05:51:56", 
+    "_body": "", 
+    "_head": "0a61", 
+    "amount": 97, 
+    "_date": "38f3257f10"
+  }, 
+  {
+    "_type": "AlarmSensor", 
+    "alarm_description": "Meter BG Now", 
+    "_description": "AlarmSensor 2016-03-31T04:48:00 head[3], body[0] op[0x0b]", 
+    "alarm_type": 104, 
+    "timestamp": "2016-03-31T04:48:00", 
+    "_body": "", 
+    "_head": "0b6800", 
+    "_date": "00f024bf10"
+  }, 
+  {
+    "_type": "AlarmSensor", 
+    "alarm_description": "Cal Reminder", 
+    "_description": "AlarmSensor 2016-03-31T04:33:00 head[3], body[0] op[0x0b]", 
+    "alarm_type": 105, 
+    "timestamp": "2016-03-31T04:33:00", 
+    "_body": "", 
+    "_head": "0b6900", 
+    "_date": "00e124bf10"
+  }
+]
