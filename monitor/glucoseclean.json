@@ -4,22 +4,13 @@
     "display_time": "2016-03-31T15:28:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 2, 
+    "_tell": 4, 
     "packet_size": 0, 
     "op": 67
   }, 
   {
     "glucose": 136, 
     "display_time": "2016-03-31T15:23:00", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 3, 
-    "packet_size": 0, 
-    "op": 68
-  }, 
-  {
-    "glucose": 136, 
-    "display_time": "2016-03-31T15:18:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 5, 
