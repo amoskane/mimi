@@ -1,0 +1,31 @@
+[
+  {
+    "glucose": 118, 
+    "display_time": "2016-03-31T17:13:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 4, 
+    "packet_size": 0, 
+    "op": 59
+  }, 
+  {
+    "body": "5f", 
+    "display_time": "2016-03-31T17:08:00", 
+    "name": "CalBGForGH", 
+    "date_type": "minSpecific", 
+    "_tell": 5, 
+    "packet_size": 5, 
+    "raw": "11-c8-1f-90-5f", 
+    "glucose": 95, 
+    "op": "0x0e"
+  }, 
+  {
+    "glucose": 120, 
+    "display_time": "2016-03-31T17:08:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 11, 
+    "packet_size": 0, 
+    "op": 60
+  }
+]
