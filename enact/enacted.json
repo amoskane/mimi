@@ -1,12 +1,22 @@
 {
   "bg": 160, 
   "temp": "absolute", 
-  "snoozeBG": 145, 
-  "recieved": true, 
-  "rate": 2.875, 
-  "reason": "Eventual BG 145>140, temp 2.625<2.9U/hr", 
-  "eventualBG": 145, 
-  "timestamp": "2016-04-05T00:49:09.947987", 
-  "duration": 30, 
+  "snoozeBG": 143, 
+  "timestamp": "2016-04-05T00:52:08.997756", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "Eventual BG 143>140, temp 2.875 >~ req 2.767U/hr", 
+  "eventualBG": 143, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "Eventual BG 143>140, temp 2.875 >~ req 2.767U/hr", 
+    "bg": 160, 
+    "eventualBG": 143, 
+    "temp": "absolute", 
+    "snoozeBG": 143, 
+    "tick": "+6"
+  }, 
   "tick": "+6"
 }
