@@ -1,0 +1,13 @@
+[
+  {
+    "body": "86", 
+    "display_time": "2016-04-08T15:37:00", 
+    "name": "CalBGForGH", 
+    "date_type": "minSpecific", 
+    "_tell": 4, 
+    "packet_size": 5, 
+    "raw": "4f-25-08-90-86", 
+    "glucose": 134, 
+    "op": "0x0e"
+  }
+]
