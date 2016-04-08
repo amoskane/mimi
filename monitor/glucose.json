@@ -7,13 +7,13 @@
     "raw": "4f-25-08-90-86", 
     "date": "2016-04-08T15:37:00", 
     "date_type": "minSpecific", 
-    "_tell": 2, 
+    "_tell": 4, 
     "op": "0x0e"
   }, 
   {
     "packet_size": 0, 
     "name": "DataEnd", 
-    "date": "2016-04-08T15:42:00", 
+    "date": "2016-04-08T15:47:00", 
     "date_type": "none", 
     "_tell": 1, 
     "op": "0x01"
@@ -21,9 +21,25 @@
   {
     "packet_size": 0, 
     "name": "SensorWeakSignal", 
+    "date": "2016-04-08T15:42:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "op": "0x02"
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
     "date": "2016-04-08T15:37:00", 
     "date_type": "prevTimestamp", 
-    "_tell": 8, 
+    "_tell": 3, 
+    "op": "0x13"
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "SensorWeakSignal", 
+    "date": "2016-04-08T15:37:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 10, 
     "op": "0x02"
   }, 
   {
@@ -31,27 +47,7 @@
     "name": "19-Something", 
     "date": "2016-04-08T15:32:00", 
     "date_type": "prevTimestamp", 
-    "_tell": 9, 
+    "_tell": 11, 
     "op": "0x13"
-  }, 
-  {
-    "packet_size": 1, 
-    "waiting": "meter_bg_now", 
-    "name": "SensorCal", 
-    "raw": "00", 
-    "date": "2016-04-08T15:32:00", 
-    "date_type": "prevTimestamp", 
-    "_tell": 10, 
-    "op": "0x03"
-  }, 
-  {
-    "packet_size": 1, 
-    "waiting": "meter_bg_now", 
-    "name": "SensorCal", 
-    "raw": "00", 
-    "date": "2016-04-08T15:27:00", 
-    "date_type": "prevTimestamp", 
-    "_tell": 12, 
-    "op": "0x03"
   }
 ]
