@@ -1,0 +1,61 @@
+[
+  {
+    "body": "8b", 
+    "packet_size": 5, 
+    "amount": 139, 
+    "name": "CalBGForGH", 
+    "raw": "44-16-0a-90-8b", 
+    "date": "2016-04-10T04:22:00", 
+    "date_type": "minSpecific", 
+    "_tell": 2, 
+    "op": "0x0e"
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "DataEnd", 
+    "date": "2016-04-09T22:21:00", 
+    "date_type": "none", 
+    "_tell": 1, 
+    "op": "0x01"
+  }, 
+  {
+    "packet_size": 4, 
+    "name": "10-Something", 
+    "raw": "56-10-09-10", 
+    "date": "2016-04-09T22:16:00", 
+    "date_type": "minSpecific", 
+    "_tell": 8, 
+    "op": "0x10"
+  }, 
+  {
+    "body": "ba", 
+    "packet_size": 5, 
+    "amount": 186, 
+    "name": "CalBGForGH", 
+    "raw": "56-10-09-90-ba", 
+    "date": "2016-04-09T22:16:00", 
+    "date_type": "minSpecific", 
+    "_tell": 16, 
+    "op": "0x0e"
+  }, 
+  {
+    "body": "", 
+    "packet_size": 4, 
+    "name": "SensorStatus", 
+    "raw": "54-18-49-10", 
+    "date": "2016-04-09T20:24:00", 
+    "date_type": "minSpecific", 
+    "_tell": 22, 
+    "op": "0x0b"
+  }, 
+  {
+    "body": "", 
+    "packet_size": 4, 
+    "name": "SensorSync", 
+    "raw": "54-0b-69-10", 
+    "date": "2016-04-09T20:11:00", 
+    "date_type": "minSpecific", 
+    "_tell": 27, 
+    "op": "0x0d"
+  }
+]

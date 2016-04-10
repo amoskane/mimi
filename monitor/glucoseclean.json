@@ -1,0 +1,24 @@
+[
+  {
+    "body": "8b", 
+    "display_time": "2016-04-10T04:22:00", 
+    "name": "CalBGForGH", 
+    "date_type": "minSpecific", 
+    "_tell": 2, 
+    "packet_size": 5, 
+    "raw": "44-16-0a-90-8b", 
+    "glucose": 139, 
+    "op": "0x0e"
+  }, 
+  {
+    "body": "ba", 
+    "display_time": "2016-04-09T22:16:00", 
+    "name": "CalBGForGH", 
+    "date_type": "minSpecific", 
+    "_tell": 16, 
+    "packet_size": 5, 
+    "raw": "56-10-09-90-ba", 
+    "glucose": 186, 
+    "op": "0x0e"
+  }
+]
