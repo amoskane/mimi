@@ -1,0 +1,129 @@
+[
+  {
+    "_type": "ChangeBolusWizardSetup", 
+    "_description": "ChangeBolusWizardSetup 2016-04-10T14:38:43 head[2], body[40] op[0x4f]", 
+    "timestamp": "2016-04-10T14:38:43", 
+    "_body": "210100c85f281e003c1e001e0f265e35200100c85f281e003c1e001e0f265e35190040010f0a100a", 
+    "appended": [
+      {
+        "_body": "", 
+        "_head": "c949", 
+        "_type": "Base", 
+        "_date": "36300a105b", 
+        "_description": "Base (2091, 0, 16, 10, 48, 54) head[2], body[0] op[0xc9]"
+      }, 
+      {
+        "_body": "", 
+        "_head": "c94c", 
+        "_type": "Base", 
+        "_date": "36100a1000", 
+        "_description": "Base (2000, 0, 16, 10, 16, 54) head[2], body[0] op[0xc9]"
+      }, 
+      {
+        "_body": "000000148c5c0e582dd06037d06041d0084bd0011414004c36500a100abf", 
+        "_head": "5009", 
+        "_type": "Ian50", 
+        "_date": "1e5a140000", 
+        "_description": "Ian50 (2000, 1, 0, 20, 26, 30) head[2], body[30] op[0x50]"
+      }, 
+      {
+        "_body": "", 
+        "_head": "4328", 
+        "_type": "JournalEntryOtherMarker", 
+        "_date": "350a105bbf", 
+        "_description": "JournalEntryOtherMarker (2063, 0, 27, 16, 10, 53) head[2], body[0] op[0x43]"
+      }, 
+      {
+        "_body": "", 
+        "_head": "4728", 
+        "_type": "Base", 
+        "_date": "150a100050", 
+        "_description": "Base (2080, 0, 0, 16, 10, 21) head[2], body[0] op[0x47]"
+      }, 
+      {
+        "_type": "CalBGForPH", 
+        "_description": "CalBGForPH (2000, 4, 0, 0, 17, 26) head[2], body[0] op[0x0a]", 
+        "data": {
+          "amount": 30
+        }, 
+        "_body": "", 
+        "_head": "0a1e", 
+        "_date": "5a11000000"
+      }
+    ], 
+    "_head": "4f00", 
+    "_date": "6b260e0a10"
+  }, 
+  {
+    "_type": "LowReservoir", 
+    "_description": "LowReservoir 2016-04-10T14:00:00 head[2], body[0] op[0x34]", 
+    "timestamp": "2016-04-10T14:00:00", 
+    "_body": "", 
+    "_head": "3419", 
+    "amount": 2.5, 
+    "_date": "40000e0a10"
+  }, 
+  {
+    "_type": "BGReceived", 
+    "link": "c6935f", 
+    "_description": "BGReceived 2016-04-10T13:27:51 head[2], body[3] op[0x3f]", 
+    "timestamp": "2016-04-10T13:27:51", 
+    "_body": "c6935f", 
+    "_head": "3f11", 
+    "amount": 139, 
+    "_date": "731b6d6a10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-04-10T13:27:51 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-04-10T13:27:51", 
+    "_body": "", 
+    "_head": "0a8b", 
+    "amount": 139, 
+    "_date": "731b2d6a10"
+  }, 
+  {
+    "programmed": 7.2, 
+    "_type": "Bolus", 
+    "type": "square", 
+    "_description": "Bolus 2016-04-10T11:32:12 head[4], body[0] op[0x01]", 
+    "duration": 30, 
+    "timestamp": "2016-04-10T11:32:12", 
+    "_body": "", 
+    "_head": "01484801", 
+    "amount": 7.2, 
+    "_date": "4c206b0a10"
+  }, 
+  {
+    "_type": "LowReservoir", 
+    "_description": "LowReservoir 2016-04-10T12:00:51 head[2], body[0] op[0x34]", 
+    "timestamp": "2016-04-10T12:00:51", 
+    "_body": "", 
+    "_head": "3432", 
+    "amount": 5.0, 
+    "_date": "73000c0a10"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 0, 
+    "bg_target_high": 140, 
+    "correction_estimate": 0.0, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-04-10T11:32:12 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-04-10T11:32:12", 
+    "_body": "4150091e5a004800000000488c", 
+    "carb_input": 65, 
+    "_head": "5b00", 
+    "unabsorbed_insulin_total": 0.0, 
+    "_byte[5]": 0, 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "_date": "4c200b0a10", 
+    "bolus_estimate": 7.2, 
+    "unknown_byte[8]": 0, 
+    "carb_ratio": 9, 
+    "food_estimate": 7.2, 
+    "bg_target_low": 90, 
+    "sensitivity": 30
+  }
+]
