@@ -1,0 +1,165 @@
+[
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-04-13T00:43:24 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-04-13T00:43:24", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[17], body[0] op[0x5c]", 
+        "data": [
+          {
+            "amount": 5.0, 
+            "age": 40
+          }, 
+          {
+            "amount": 2.2, 
+            "age": 240
+          }, 
+          {
+            "amount": 3.1, 
+            "age": 250
+          }, 
+          {
+            "amount": 0.7, 
+            "age": 260
+          }, 
+          {
+            "amount": 1.0, 
+            "age": 390
+          }
+        ], 
+        "_body": "", 
+        "_head": "5c11c828c058f0c07cfac01c04d02886d0", 
+        "_date": ""
+      }
+    ], 
+    "programmed": 0.5, 
+    "_head": "01050500", 
+    "amount": 0.5, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "582b400d10"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 201, 
+    "bg_target_high": 140, 
+    "correction_estimate": 0.4, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-04-13T00:43:24 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-04-13T00:43:24", 
+    "_body": "00500a1e5a140000002b00008c", 
+    "carb_input": 0, 
+    "_head": "5bc9", 
+    "unabsorbed_insulin_total": 4.3, 
+    "_byte[5]": 20, 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "_date": "582b000d10", 
+    "bolus_estimate": 0.0, 
+    "unknown_byte[8]": 0, 
+    "carb_ratio": 10, 
+    "food_estimate": 0.0, 
+    "bg_target_low": 90, 
+    "sensitivity": 30
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-04-13T00:43:18 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-04-13T00:43:18", 
+    "_body": "", 
+    "_head": "0ac9", 
+    "amount": 201, 
+    "_date": "522b200d10"
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-04-13T00:07:08 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-04-13T00:07:08", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[14], body[0] op[0x5c]", 
+        "data": [
+          {
+            "amount": 2.2, 
+            "age": 204
+          }, 
+          {
+            "amount": 3.1, 
+            "age": 214
+          }, 
+          {
+            "amount": 0.7, 
+            "age": 224
+          }, 
+          {
+            "amount": 1.0, 
+            "age": 354
+          }
+        ], 
+        "_body": "", 
+        "_head": "5c0e58ccc07cd6c01ce0c02862d0", 
+        "_date": ""
+      }
+    ], 
+    "programmed": 5.0, 
+    "_head": "01323200", 
+    "amount": 5.0, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "4807400d10"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 0, 
+    "bg_target_high": 140, 
+    "correction_estimate": 0.0, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-04-13T00:07:08 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-04-13T00:07:08", 
+    "_body": "32500a1e5a003200000000328c", 
+    "carb_input": 50, 
+    "_head": "5b00", 
+    "unabsorbed_insulin_total": 0.0, 
+    "_byte[5]": 0, 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "_date": "4807000d10", 
+    "bolus_estimate": 5.0, 
+    "unknown_byte[8]": 0, 
+    "carb_ratio": 10, 
+    "food_estimate": 5.0, 
+    "bg_target_low": 90, 
+    "sensitivity": 30
+  }, 
+  {
+    "_type": "Model522ResultTotals", 
+    "_description": "Model522ResultTotals 2016-04-13T00:00:00 head[1], body[41] op[0x6d]", 
+    "timestamp": "2016-04-13T00:00:00", 
+    "_body": "0500c4abe80400000622037e3902a42b007302a42b02184f008c1500000005030101000c00e8000000", 
+    "_head": "6d", 
+    "_date": "4c10"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-04-13T00:00:00 head[5], body[0] op[0x07]", 
+    "timestamp": "2016-04-13T00:00:00", 
+    "_body": "", 
+    "valid_date": "2016-04-12", 
+    "_head": "0700000622", 
+    "_date": "4c10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-04-12T21:35:20 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-04-12T21:35:20", 
+    "_body": "", 
+    "_head": "0ae8", 
+    "amount": 232, 
+    "_date": "5423350c10"
+  }
+]
