@@ -1,22 +1,13 @@
 {
-  "bg": 104, 
+  "bg": 170, 
   "temp": "absolute", 
-  "snoozeBG": 111, 
-  "timestamp": "2016-04-09T13:19:53.244450", 
-  "missing": [
-    "duration", 
-    "rate"
-  ], 
-  "reason": "111 is in range. No temp required", 
-  "eventualBG": 111, 
-  "error": "missing required input fields", 
-  "input": {
-    "reason": "111 is in range. No temp required", 
-    "bg": 104, 
-    "eventualBG": 111, 
-    "temp": "absolute", 
-    "snoozeBG": 111, 
-    "tick": "+4"
-  }, 
+  "snoozeBG": 182, 
+  "recieved": true, 
+  "rate": 3.9, 
+  "reason": "Eventual BG 185>=140, adj. req. rate:5.6 to maxSafeBasal:3.9, no temp, setting 3.9U/hr", 
+  "eventualBG": 185, 
+  "timestamp": "2016-04-17T18:04:18.613920", 
+  "duration": 30, 
+  "mealAssist": "On: 24%, 24%, Carbs: undefined Boluses: undefined Target: 114 Deviation: 12 BGI: 0", 
   "tick": "+4"
 }
