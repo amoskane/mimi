@@ -1,6 +1,12 @@
 [
   {
     "trend_arrow": "45_UP", 
+    "system_time": "2016-04-21T17:07:50", 
+    "display_time": "2016-04-21T10:07:49", 
+    "glucose": 255
+  }, 
+  {
+    "trend_arrow": "45_UP", 
     "system_time": "2016-04-21T17:02:50", 
     "display_time": "2016-04-21T10:02:50", 
     "glucose": 246
@@ -22,11 +28,5 @@
     "system_time": "2016-04-21T16:47:51", 
     "display_time": "2016-04-21T09:47:51", 
     "glucose": 229
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-21T15:03:01", 
-    "display_time": "2016-04-21T08:03:00", 
-    "glucose": 272
   }
 ]
