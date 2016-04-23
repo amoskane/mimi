@@ -6,7 +6,7 @@
   "rate": 0.925, 
   "reason": "Eventual BG 110>90 but Avg. Delta -4.33 < Exp. Delta 0.1; setting current basal of 0.95 as temp", 
   "eventualBG": 110, 
-  "timestamp": "2016-04-22T22:39:46.809474", 
+  "timestamp": "2016-04-22T22:42:43.869006", 
   "duration": 30, 
   "mealAssist": "Off: Carbs: undefined Boluses: undefined Target: 115 Deviation: -26 BGI: 0", 
   "tick": -2
