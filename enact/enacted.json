@@ -6,7 +6,7 @@
   "rate": 0.9, 
   "reason": "129-127 in range: no temp required; setting current basal of 0.9 as temp", 
   "eventualBG": 129, 
-  "timestamp": "2016-04-23T00:09:47.980643", 
+  "timestamp": "2016-04-23T00:12:45.883512", 
   "duration": 30, 
   "mealAssist": "On: 18%, 18%, Carbs: undefined Boluses: undefined Target: 114 Deviation: 9 BGI: 0", 
   "tick": "+3"
