@@ -6,7 +6,7 @@
   "rate": 3.775, 
   "reason": "Eventual BG 159>=140, adj. req. rate:3.9 to maxSafeBasal:3.8, no temp, setting 3.8U/hr", 
   "eventualBG": 159, 
-  "timestamp": "2016-04-22T21:30:53.579615", 
+  "timestamp": "2016-04-22T21:33:56.682297", 
   "duration": 30, 
   "mealAssist": "On: 14%, 14%, Carbs: undefined Boluses: undefined Target: 114 Deviation: 7 BGI: 0", 
   "tick": "+6"
