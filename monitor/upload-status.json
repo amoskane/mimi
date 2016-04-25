@@ -19,7 +19,7 @@
       "bg": 237, 
       "temp": "absolute", 
       "snoozeBG": 237, 
-      "timestamp": "2016-04-25T05:09:51.000Z", 
+      "timestamp": "2016-04-25T05:12:49.000Z", 
       "rate": 3.8, 
       "reason": "Eventual BG 237>=140, adj. req. rate:9.1 to maxSafeBasal:3.8, no temp, setting 3.8U/hr", 
       "eventualBG": 237, 
@@ -37,19 +37,14 @@
       "iob": 0
     }, 
     "enacted": {
-      "requested": {
-        "duration": 30, 
-        "rate": 3.8, 
-        "temp": "absolute"
-      }, 
       "bg": 237, 
       "temp": "absolute", 
       "snoozeBG": 237, 
-      "timestamp": "2016-04-25T05:10:04.000Z", 
+      "recieved": true, 
       "reason": "Eventual BG 237>=140, adj. req. rate:9.1 to maxSafeBasal:3.8, no temp, setting 3.8U/hr", 
       "rate": 3.775, 
       "eventualBG": 237, 
-      "recieved": false, 
+      "timestamp": "2016-04-25T05:12:51.000Z", 
       "duration": 30, 
       "mealAssist": "Off: Carbs: undefined Boluses: undefined Target: 115 Deviation: 0 BGI: 0", 
       "tick": "+0"
