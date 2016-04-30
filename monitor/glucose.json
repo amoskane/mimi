@@ -1,1730 +1,1730 @@
 [
   {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-25T06:22:33", 
-    "display_time": "2016-04-24T23:22:32", 
-    "glucose": 215
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T19:52:05", 
+    "display_time": "2016-04-30T12:52:05", 
+    "glucose": 71
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T06:17:37", 
-    "display_time": "2016-04-24T23:17:36", 
-    "glucose": 222
+    "system_time": "2016-04-30T19:47:06", 
+    "display_time": "2016-04-30T12:47:06", 
+    "glucose": 71
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T06:12:34", 
-    "display_time": "2016-04-24T23:12:33", 
-    "glucose": 227
+    "system_time": "2016-04-30T19:42:09", 
+    "display_time": "2016-04-30T12:42:09", 
+    "glucose": 73
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T06:07:33", 
-    "display_time": "2016-04-24T23:07:32", 
-    "glucose": 229
+    "system_time": "2016-04-30T19:37:07", 
+    "display_time": "2016-04-30T12:37:07", 
+    "glucose": 77
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T06:02:34", 
-    "display_time": "2016-04-24T23:02:33", 
-    "glucose": 233
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:57:34", 
-    "display_time": "2016-04-24T22:57:34", 
-    "glucose": 234
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:52:32", 
-    "display_time": "2016-04-24T22:52:32", 
-    "glucose": 237
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:47:34", 
-    "display_time": "2016-04-24T22:47:33", 
-    "glucose": 239
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:42:33", 
-    "display_time": "2016-04-24T22:42:33", 
-    "glucose": 238
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:37:34", 
-    "display_time": "2016-04-24T22:37:33", 
-    "glucose": 237
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:32:37", 
-    "display_time": "2016-04-24T22:32:36", 
-    "glucose": 233
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:27:39", 
-    "display_time": "2016-04-24T22:27:38", 
-    "glucose": 235
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:22:32", 
-    "display_time": "2016-04-24T22:22:32", 
-    "glucose": 233
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:17:34", 
-    "display_time": "2016-04-24T22:17:34", 
-    "glucose": 235
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:12:35", 
-    "display_time": "2016-04-24T22:12:35", 
-    "glucose": 237
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:07:37", 
-    "display_time": "2016-04-24T22:07:36", 
-    "glucose": 237
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T05:02:37", 
-    "display_time": "2016-04-24T22:02:37", 
-    "glucose": 237
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T04:57:34", 
-    "display_time": "2016-04-24T21:57:34", 
-    "glucose": 235
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T04:52:46", 
-    "display_time": "2016-04-24T21:52:45", 
-    "glucose": 230
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T04:47:38", 
-    "display_time": "2016-04-24T21:47:38", 
-    "glucose": 239
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-25T04:42:33", 
-    "display_time": "2016-04-24T21:42:33", 
-    "glucose": 247
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T04:37:32", 
-    "display_time": "2016-04-24T21:37:31", 
-    "glucose": 240
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "system_time": "2016-04-25T04:32:31", 
-    "display_time": "2016-04-24T21:32:30", 
-    "glucose": 253
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:57:31", 
-    "display_time": "2016-04-24T19:57:31", 
-    "glucose": 166
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:52:38", 
-    "display_time": "2016-04-24T19:52:37", 
-    "glucose": 170
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:47:31", 
-    "display_time": "2016-04-24T19:47:31", 
-    "glucose": 171
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:42:31", 
-    "display_time": "2016-04-24T19:42:31", 
-    "glucose": 174
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:37:32", 
-    "display_time": "2016-04-24T19:37:32", 
-    "glucose": 177
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:32:32", 
-    "display_time": "2016-04-24T19:32:31", 
-    "glucose": 180
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:27:32", 
-    "display_time": "2016-04-24T19:27:31", 
-    "glucose": 183
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:22:33", 
-    "display_time": "2016-04-24T19:22:32", 
-    "glucose": 187
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:17:32", 
-    "display_time": "2016-04-24T19:17:31", 
-    "glucose": 187
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T02:12:32", 
-    "display_time": "2016-04-24T19:12:32", 
-    "glucose": 192
+    "system_time": "2016-04-30T19:32:13", 
+    "display_time": "2016-04-30T12:32:13", 
+    "glucose": 80
   }, 
   {
     "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-25T02:07:37", 
-    "display_time": "2016-04-24T19:07:37", 
-    "glucose": 191
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T01:42:32", 
-    "display_time": "2016-04-24T18:42:31", 
-    "glucose": 217
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T01:37:32", 
-    "display_time": "2016-04-24T18:37:31", 
-    "glucose": 221
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T01:32:32", 
-    "display_time": "2016-04-24T18:32:31", 
-    "glucose": 225
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T01:27:32", 
-    "display_time": "2016-04-24T18:27:31", 
-    "glucose": 228
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T01:22:36", 
-    "display_time": "2016-04-24T18:22:35", 
-    "glucose": 231
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T01:17:32", 
-    "display_time": "2016-04-24T18:17:31", 
-    "glucose": 234
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T01:12:32", 
-    "display_time": "2016-04-24T18:12:31", 
-    "glucose": 237
+    "system_time": "2016-04-30T19:27:05", 
+    "display_time": "2016-04-30T12:27:04", 
+    "glucose": 84
   }, 
   {
     "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-25T01:07:32", 
-    "display_time": "2016-04-24T18:07:31", 
-    "glucose": 239
+    "system_time": "2016-04-30T19:22:06", 
+    "display_time": "2016-04-30T12:22:05", 
+    "glucose": 87
   }, 
   {
     "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-25T01:02:32", 
-    "display_time": "2016-04-24T18:02:31", 
-    "glucose": 242
+    "system_time": "2016-04-30T19:17:06", 
+    "display_time": "2016-04-30T12:17:06", 
+    "glucose": 92
   }, 
   {
     "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-25T00:57:32", 
-    "display_time": "2016-04-24T17:57:32", 
-    "glucose": 246
+    "system_time": "2016-04-30T19:12:09", 
+    "display_time": "2016-04-30T12:12:08", 
+    "glucose": 97
   }, 
   {
     "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-25T00:52:32", 
-    "display_time": "2016-04-24T17:52:31", 
-    "glucose": 251
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:47:32", 
-    "display_time": "2016-04-24T17:47:31", 
-    "glucose": 262
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:42:32", 
-    "display_time": "2016-04-24T17:42:31", 
-    "glucose": 263
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:37:32", 
-    "display_time": "2016-04-24T17:37:31", 
-    "glucose": 268
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:32:37", 
-    "display_time": "2016-04-24T17:32:37", 
-    "glucose": 276
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:27:32", 
-    "display_time": "2016-04-24T17:27:31", 
-    "glucose": 275
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:22:32", 
-    "display_time": "2016-04-24T17:22:31", 
-    "glucose": 275
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:17:36", 
-    "display_time": "2016-04-24T17:17:35", 
-    "glucose": 272
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:12:32", 
-    "display_time": "2016-04-24T17:12:31", 
-    "glucose": 274
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:07:32", 
-    "display_time": "2016-04-24T17:07:32", 
-    "glucose": 272
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-25T00:02:32", 
-    "display_time": "2016-04-24T17:02:32", 
-    "glucose": 270
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:57:37", 
-    "display_time": "2016-04-24T16:57:36", 
-    "glucose": 266
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:52:37", 
-    "display_time": "2016-04-24T16:52:36", 
-    "glucose": 265
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:47:32", 
-    "display_time": "2016-04-24T16:47:32", 
-    "glucose": 264
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:42:32", 
-    "display_time": "2016-04-24T16:42:32", 
-    "glucose": 265
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:37:36", 
-    "display_time": "2016-04-24T16:37:36", 
-    "glucose": 262
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:32:32", 
-    "display_time": "2016-04-24T16:32:32", 
-    "glucose": 259
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:27:32", 
-    "display_time": "2016-04-24T16:27:32", 
-    "glucose": 258
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:22:32", 
-    "display_time": "2016-04-24T16:22:32", 
-    "glucose": 260
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:17:32", 
-    "display_time": "2016-04-24T16:17:32", 
-    "glucose": 257
+    "system_time": "2016-04-30T19:07:07", 
+    "display_time": "2016-04-30T12:07:07", 
+    "glucose": 109
   }, 
   {
     "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T23:12:32", 
-    "display_time": "2016-04-24T16:12:32", 
-    "glucose": 255
+    "system_time": "2016-04-30T19:02:14", 
+    "display_time": "2016-04-30T12:02:13", 
+    "glucose": 116
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T18:57:05", 
+    "display_time": "2016-04-30T11:57:05", 
+    "glucose": 126
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T18:52:06", 
+    "display_time": "2016-04-30T11:52:06", 
+    "glucose": 134
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T18:47:10", 
+    "display_time": "2016-04-30T11:47:10", 
+    "glucose": 139
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:07:32", 
-    "display_time": "2016-04-24T16:07:32", 
-    "glucose": 261
+    "system_time": "2016-04-30T18:42:07", 
+    "display_time": "2016-04-30T11:42:06", 
+    "glucose": 145
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T23:02:32", 
-    "display_time": "2016-04-24T16:02:32", 
-    "glucose": 266
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T22:57:36", 
-    "display_time": "2016-04-24T15:57:36", 
-    "glucose": 272
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T22:52:32", 
-    "display_time": "2016-04-24T15:52:32", 
-    "glucose": 276
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T22:47:32", 
-    "display_time": "2016-04-24T15:47:32", 
-    "glucose": 273
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T22:42:32", 
-    "display_time": "2016-04-24T15:42:32", 
-    "glucose": 268
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T22:37:32", 
-    "display_time": "2016-04-24T15:37:32", 
-    "glucose": 264
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T22:32:32", 
-    "display_time": "2016-04-24T15:32:32", 
-    "glucose": 260
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T22:27:32", 
-    "display_time": "2016-04-24T15:27:32", 
-    "glucose": 254
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T22:22:32", 
-    "display_time": "2016-04-24T15:22:32", 
-    "glucose": 249
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T22:17:32", 
-    "display_time": "2016-04-24T15:17:32", 
-    "glucose": 244
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T18:42:41", 
-    "display_time": "2016-04-24T11:42:40", 
+    "system_time": "2016-04-30T18:37:10", 
+    "display_time": "2016-04-30T11:37:09", 
     "glucose": 152
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T18:37:36", 
-    "display_time": "2016-04-24T11:37:35", 
-    "glucose": 162
+    "system_time": "2016-04-30T18:32:05", 
+    "display_time": "2016-04-30T11:32:05", 
+    "glucose": 158
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T18:27:52", 
-    "display_time": "2016-04-24T11:27:52", 
-    "glucose": 163
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T18:22:38", 
-    "display_time": "2016-04-24T11:22:37", 
-    "glucose": 165
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T18:17:38", 
-    "display_time": "2016-04-24T11:17:38", 
-    "glucose": 165
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T18:12:36", 
-    "display_time": "2016-04-24T11:12:35", 
-    "glucose": 165
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T18:07:36", 
-    "display_time": "2016-04-24T11:07:35", 
-    "glucose": 168
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T18:02:45", 
-    "display_time": "2016-04-24T11:02:45", 
-    "glucose": 168
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T17:57:36", 
-    "display_time": "2016-04-24T10:57:35", 
-    "glucose": 169
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T17:52:35", 
-    "display_time": "2016-04-24T10:52:35", 
-    "glucose": 167
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T17:47:40", 
-    "display_time": "2016-04-24T10:47:39", 
-    "glucose": 164
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T17:42:36", 
-    "display_time": "2016-04-24T10:42:35", 
-    "glucose": 159
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T17:37:35", 
-    "display_time": "2016-04-24T10:37:35", 
-    "glucose": 152
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T17:32:36", 
-    "display_time": "2016-04-24T10:32:35", 
-    "glucose": 143
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T17:27:36", 
-    "display_time": "2016-04-24T10:27:36", 
-    "glucose": 143
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T17:22:38", 
-    "display_time": "2016-04-24T10:22:37", 
-    "glucose": 147
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T17:17:44", 
-    "display_time": "2016-04-24T10:17:43", 
-    "glucose": 146
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T17:12:38", 
-    "display_time": "2016-04-24T10:12:37", 
-    "glucose": 147
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T17:07:46", 
-    "display_time": "2016-04-24T10:07:45", 
-    "glucose": 153
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T17:02:47", 
-    "display_time": "2016-04-24T10:02:46", 
-    "glucose": 156
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:57:42", 
-    "display_time": "2016-04-24T09:57:42", 
-    "glucose": 161
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:52:38", 
-    "display_time": "2016-04-24T09:52:38", 
-    "glucose": 166
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:47:36", 
-    "display_time": "2016-04-24T09:47:35", 
-    "glucose": 168
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:37:37", 
-    "display_time": "2016-04-24T09:37:37", 
-    "glucose": 171
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:32:36", 
-    "display_time": "2016-04-24T09:32:35", 
-    "glucose": 174
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:27:36", 
-    "display_time": "2016-04-24T09:27:35", 
-    "glucose": 176
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:22:36", 
-    "display_time": "2016-04-24T09:22:35", 
-    "glucose": 177
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:17:35", 
-    "display_time": "2016-04-24T09:17:35", 
-    "glucose": 179
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:12:36", 
-    "display_time": "2016-04-24T09:12:36", 
-    "glucose": 180
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:07:38", 
-    "display_time": "2016-04-24T09:07:38", 
-    "glucose": 180
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T16:02:36", 
-    "display_time": "2016-04-24T09:02:35", 
-    "glucose": 181
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:57:37", 
-    "display_time": "2016-04-24T08:57:36", 
-    "glucose": 185
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:52:35", 
-    "display_time": "2016-04-24T08:52:35", 
-    "glucose": 186
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:47:36", 
-    "display_time": "2016-04-24T08:47:35", 
-    "glucose": 188
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:42:36", 
-    "display_time": "2016-04-24T08:42:35", 
-    "glucose": 189
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:37:36", 
-    "display_time": "2016-04-24T08:37:35", 
-    "glucose": 191
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:32:36", 
-    "display_time": "2016-04-24T08:32:36", 
-    "glucose": 191
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:27:37", 
-    "display_time": "2016-04-24T08:27:37", 
-    "glucose": 192
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:22:37", 
-    "display_time": "2016-04-24T08:22:36", 
-    "glucose": 193
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:17:35", 
-    "display_time": "2016-04-24T08:17:35", 
-    "glucose": 194
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:12:35", 
-    "display_time": "2016-04-24T08:12:35", 
-    "glucose": 193
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:07:37", 
-    "display_time": "2016-04-24T08:07:36", 
-    "glucose": 194
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T15:02:36", 
-    "display_time": "2016-04-24T08:02:35", 
-    "glucose": 194
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:57:41", 
-    "display_time": "2016-04-24T07:57:40", 
-    "glucose": 195
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:52:37", 
-    "display_time": "2016-04-24T07:52:37", 
-    "glucose": 194
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:47:36", 
-    "display_time": "2016-04-24T07:47:36", 
-    "glucose": 193
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:42:38", 
-    "display_time": "2016-04-24T07:42:38", 
-    "glucose": 191
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:37:37", 
-    "display_time": "2016-04-24T07:37:36", 
-    "glucose": 189
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:32:35", 
-    "display_time": "2016-04-24T07:32:35", 
-    "glucose": 187
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:27:36", 
-    "display_time": "2016-04-24T07:27:35", 
-    "glucose": 184
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:22:35", 
-    "display_time": "2016-04-24T07:22:35", 
-    "glucose": 183
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:17:36", 
-    "display_time": "2016-04-24T07:17:35", 
-    "glucose": 182
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:12:36", 
-    "display_time": "2016-04-24T07:12:36", 
-    "glucose": 184
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:07:36", 
-    "display_time": "2016-04-24T07:07:36", 
-    "glucose": 187
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T14:02:37", 
-    "display_time": "2016-04-24T07:02:36", 
-    "glucose": 189
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T13:57:39", 
-    "display_time": "2016-04-24T06:57:39", 
-    "glucose": 191
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T13:52:40", 
-    "display_time": "2016-04-24T06:52:40", 
-    "glucose": 192
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T13:47:39", 
-    "display_time": "2016-04-24T06:47:39", 
-    "glucose": 193
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T13:42:41", 
-    "display_time": "2016-04-24T06:42:40", 
-    "glucose": 188
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T13:37:42", 
-    "display_time": "2016-04-24T06:37:41", 
-    "glucose": 183
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T13:32:42", 
-    "display_time": "2016-04-24T06:32:42", 
-    "glucose": 185
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T13:27:45", 
-    "display_time": "2016-04-24T06:27:44", 
-    "glucose": 192
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T13:22:38", 
-    "display_time": "2016-04-24T06:22:37", 
-    "glucose": 204
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T13:17:41", 
-    "display_time": "2016-04-24T06:17:40", 
-    "glucose": 212
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T13:12:38", 
-    "display_time": "2016-04-24T06:12:37", 
-    "glucose": 214
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T13:07:38", 
-    "display_time": "2016-04-24T06:07:38", 
-    "glucose": 217
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T13:02:38", 
-    "display_time": "2016-04-24T06:02:37", 
-    "glucose": 220
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T12:57:48", 
-    "display_time": "2016-04-24T05:57:48", 
-    "glucose": 223
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T12:52:40", 
-    "display_time": "2016-04-24T05:52:39", 
-    "glucose": 227
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T12:47:43", 
-    "display_time": "2016-04-24T05:47:42", 
-    "glucose": 232
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T12:42:42", 
-    "display_time": "2016-04-24T05:42:42", 
-    "glucose": 238
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T12:37:40", 
-    "display_time": "2016-04-24T05:37:40", 
-    "glucose": 239
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T12:32:38", 
-    "display_time": "2016-04-24T05:32:38", 
-    "glucose": 244
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T12:27:39", 
-    "display_time": "2016-04-24T05:27:38", 
-    "glucose": 250
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T12:22:39", 
-    "display_time": "2016-04-24T05:22:39", 
-    "glucose": 256
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T12:17:40", 
-    "display_time": "2016-04-24T05:17:40", 
-    "glucose": 265
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T12:12:43", 
-    "display_time": "2016-04-24T05:12:43", 
-    "glucose": 273
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T12:07:43", 
-    "display_time": "2016-04-24T05:07:43", 
-    "glucose": 279
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T12:02:42", 
-    "display_time": "2016-04-24T05:02:42", 
-    "glucose": 285
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:57:38", 
-    "display_time": "2016-04-24T04:57:37", 
-    "glucose": 289
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:52:38", 
-    "display_time": "2016-04-24T04:52:37", 
-    "glucose": 297
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:47:41", 
-    "display_time": "2016-04-24T04:47:40", 
-    "glucose": 302
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:42:43", 
-    "display_time": "2016-04-24T04:42:42", 
-    "glucose": 309
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:37:38", 
-    "display_time": "2016-04-24T04:37:38", 
-    "glucose": 317
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:32:37", 
-    "display_time": "2016-04-24T04:32:36", 
-    "glucose": 326
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:27:41", 
-    "display_time": "2016-04-24T04:27:40", 
-    "glucose": 336
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:22:43", 
-    "display_time": "2016-04-24T04:22:42", 
-    "glucose": 342
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:17:39", 
-    "display_time": "2016-04-24T04:17:38", 
-    "glucose": 352
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T11:12:39", 
-    "display_time": "2016-04-24T04:12:38", 
-    "glucose": 365
-  }, 
-  {
-    "trend_arrow": "SINGLE_DOWN", 
-    "system_time": "2016-04-24T11:07:39", 
-    "display_time": "2016-04-24T04:07:39", 
-    "glucose": 374
-  }, 
-  {
-    "trend_arrow": "DOUBLE_DOWN", 
-    "system_time": "2016-04-24T11:02:38", 
-    "display_time": "2016-04-24T04:02:37", 
-    "glucose": 369
-  }, 
-  {
-    "trend_arrow": "SINGLE_DOWN", 
-    "system_time": "2016-04-24T10:57:37", 
-    "display_time": "2016-04-24T03:57:37", 
-    "glucose": 393
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T10:52:38", 
-    "display_time": "2016-04-24T03:52:37", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T10:47:39", 
-    "display_time": "2016-04-24T03:47:38", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T10:42:41", 
-    "display_time": "2016-04-24T03:42:40", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T10:37:37", 
-    "display_time": "2016-04-24T03:37:36", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T10:32:37", 
-    "display_time": "2016-04-24T03:32:37", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T10:27:38", 
-    "display_time": "2016-04-24T03:27:37", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T10:22:38", 
-    "display_time": "2016-04-24T03:22:38", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T10:17:36", 
-    "display_time": "2016-04-24T03:17:36", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T10:12:39", 
-    "display_time": "2016-04-24T03:12:39", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T10:07:41", 
-    "display_time": "2016-04-24T03:07:41", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T10:02:38", 
-    "display_time": "2016-04-24T03:02:38", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:57:37", 
-    "display_time": "2016-04-24T02:57:36", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:52:37", 
-    "display_time": "2016-04-24T02:52:37", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:47:38", 
-    "display_time": "2016-04-24T02:47:37", 
-    "glucose": 401
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:42:37", 
-    "display_time": "2016-04-24T02:42:37", 
-    "glucose": 397
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:37:37", 
-    "display_time": "2016-04-24T02:37:37", 
-    "glucose": 391
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:32:38", 
-    "display_time": "2016-04-24T02:32:37", 
-    "glucose": 383
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:27:36", 
-    "display_time": "2016-04-24T02:27:36", 
-    "glucose": 373
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:22:38", 
-    "display_time": "2016-04-24T02:22:37", 
-    "glucose": 366
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:17:36", 
-    "display_time": "2016-04-24T02:17:36", 
-    "glucose": 358
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:12:38", 
-    "display_time": "2016-04-24T02:12:37", 
-    "glucose": 350
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:07:37", 
-    "display_time": "2016-04-24T02:07:37", 
-    "glucose": 345
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T09:02:37", 
-    "display_time": "2016-04-24T02:02:37", 
-    "glucose": 340
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T08:57:37", 
-    "display_time": "2016-04-24T01:57:36", 
-    "glucose": 333
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T08:52:37", 
-    "display_time": "2016-04-24T01:52:36", 
-    "glucose": 323
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T08:47:37", 
-    "display_time": "2016-04-24T01:47:36", 
-    "glucose": 316
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T08:42:39", 
-    "display_time": "2016-04-24T01:42:38", 
-    "glucose": 313
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T08:37:38", 
-    "display_time": "2016-04-24T01:37:38", 
-    "glucose": 313
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T08:32:38", 
-    "display_time": "2016-04-24T01:32:37", 
-    "glucose": 310
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T08:27:37", 
-    "display_time": "2016-04-24T01:27:37", 
-    "glucose": 302
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T08:22:37", 
-    "display_time": "2016-04-24T01:22:37", 
-    "glucose": 295
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T08:17:37", 
-    "display_time": "2016-04-24T01:17:37", 
-    "glucose": 287
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T08:12:37", 
-    "display_time": "2016-04-24T01:12:37", 
-    "glucose": 278
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T08:07:38", 
-    "display_time": "2016-04-24T01:07:37", 
-    "glucose": 271
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T08:02:36", 
-    "display_time": "2016-04-24T01:02:36", 
-    "glucose": 264
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T07:57:38", 
-    "display_time": "2016-04-24T00:57:38", 
-    "glucose": 256
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T07:52:37", 
-    "display_time": "2016-04-24T00:52:36", 
-    "glucose": 248
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T07:47:37", 
-    "display_time": "2016-04-24T00:47:36", 
-    "glucose": 242
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T07:42:39", 
-    "display_time": "2016-04-24T00:42:38", 
-    "glucose": 232
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T07:37:38", 
-    "display_time": "2016-04-24T00:37:37", 
-    "glucose": 223
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T07:32:39", 
-    "display_time": "2016-04-24T00:32:39", 
-    "glucose": 217
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "system_time": "2016-04-24T07:27:38", 
-    "display_time": "2016-04-24T00:27:37", 
-    "glucose": 216
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "system_time": "2016-04-24T07:22:37", 
-    "display_time": "2016-04-24T00:22:37", 
-    "glucose": 210
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T07:17:38", 
-    "display_time": "2016-04-24T00:17:38", 
-    "glucose": 194
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T07:12:38", 
-    "display_time": "2016-04-24T00:12:38", 
-    "glucose": 187
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T07:07:39", 
-    "display_time": "2016-04-24T00:07:38", 
-    "glucose": 175
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T07:02:37", 
-    "display_time": "2016-04-24T00:02:37", 
-    "glucose": 163
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:57:38", 
-    "display_time": "2016-04-23T23:57:37", 
+    "system_time": "2016-04-30T18:27:06", 
+    "display_time": "2016-04-30T11:27:06", 
     "glucose": 160
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:52:38", 
-    "display_time": "2016-04-23T23:52:38", 
-    "glucose": 157
+    "system_time": "2016-04-30T18:22:10", 
+    "display_time": "2016-04-30T11:22:09", 
+    "glucose": 161
   }, 
   {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:47:38", 
-    "display_time": "2016-04-23T23:47:37", 
-    "glucose": 158
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:42:38", 
-    "display_time": "2016-04-23T23:42:38", 
-    "glucose": 159
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:37:38", 
-    "display_time": "2016-04-23T23:37:38", 
-    "glucose": 159
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:32:37", 
-    "display_time": "2016-04-23T23:32:37", 
-    "glucose": 159
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:27:37", 
-    "display_time": "2016-04-23T23:27:37", 
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T18:17:08", 
+    "display_time": "2016-04-30T11:17:07", 
     "glucose": 161
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:22:38", 
-    "display_time": "2016-04-23T23:22:37", 
-    "glucose": 163
+    "system_time": "2016-04-30T18:12:24", 
+    "display_time": "2016-04-30T11:12:23", 
+    "glucose": 157
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:17:40", 
-    "display_time": "2016-04-23T23:17:40", 
-    "glucose": 165
+    "system_time": "2016-04-30T18:07:07", 
+    "display_time": "2016-04-30T11:07:06", 
+    "glucose": 150
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:12:39", 
-    "display_time": "2016-04-23T23:12:38", 
-    "glucose": 167
+    "system_time": "2016-04-30T18:02:06", 
+    "display_time": "2016-04-30T11:02:05", 
+    "glucose": 146
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:07:38", 
-    "display_time": "2016-04-23T23:07:38", 
+    "system_time": "2016-04-30T17:57:06", 
+    "display_time": "2016-04-30T10:57:06", 
+    "glucose": 143
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T17:52:09", 
+    "display_time": "2016-04-30T10:52:08", 
+    "glucose": 144
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T17:47:06", 
+    "display_time": "2016-04-30T10:47:05", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T17:42:06", 
+    "display_time": "2016-04-30T10:42:05", 
+    "glucose": 144
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T17:37:06", 
+    "display_time": "2016-04-30T10:37:06", 
+    "glucose": 146
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T17:22:23", 
+    "display_time": "2016-04-30T10:22:23", 
+    "glucose": 158
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T17:07:07", 
+    "display_time": "2016-04-30T10:07:06", 
     "glucose": 170
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T06:02:38", 
-    "display_time": "2016-04-23T23:02:38", 
+    "system_time": "2016-04-30T17:02:09", 
+    "display_time": "2016-04-30T10:02:08", 
+    "glucose": 170
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T16:57:07", 
+    "display_time": "2016-04-30T09:57:06", 
     "glucose": 174
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T05:57:38", 
-    "display_time": "2016-04-23T22:57:37", 
+    "system_time": "2016-04-30T16:52:09", 
+    "display_time": "2016-04-30T09:52:08", 
+    "glucose": 178
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T16:47:07", 
+    "display_time": "2016-04-30T09:47:07", 
     "glucose": 176
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T05:52:39", 
-    "display_time": "2016-04-23T22:52:38", 
-    "glucose": 178
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T05:47:40", 
-    "display_time": "2016-04-23T22:47:40", 
-    "glucose": 181
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T05:42:39", 
-    "display_time": "2016-04-23T22:42:39", 
-    "glucose": 185
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T05:37:41", 
-    "display_time": "2016-04-23T22:37:40", 
-    "glucose": 190
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T05:32:38", 
-    "display_time": "2016-04-23T22:32:38", 
-    "glucose": 195
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T05:27:43", 
-    "display_time": "2016-04-23T22:27:43", 
-    "glucose": 201
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T05:22:40", 
-    "display_time": "2016-04-23T22:22:39", 
-    "glucose": 208
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T05:17:38", 
-    "display_time": "2016-04-23T22:17:38", 
-    "glucose": 216
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T05:12:39", 
-    "display_time": "2016-04-23T22:12:38", 
-    "glucose": 226
+    "system_time": "2016-04-30T16:42:09", 
+    "display_time": "2016-04-30T09:42:08", 
+    "glucose": 172
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T05:07:38", 
-    "display_time": "2016-04-23T22:07:37", 
-    "glucose": 236
+    "system_time": "2016-04-30T16:37:10", 
+    "display_time": "2016-04-30T09:37:10", 
+    "glucose": 174
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T05:02:38", 
-    "display_time": "2016-04-23T22:02:38", 
-    "glucose": 241
+    "system_time": "2016-04-30T16:32:07", 
+    "display_time": "2016-04-30T09:32:06", 
+    "glucose": 176
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T04:57:38", 
-    "display_time": "2016-04-23T21:57:38", 
-    "glucose": 245
+    "system_time": "2016-04-30T16:27:06", 
+    "display_time": "2016-04-30T09:27:06", 
+    "glucose": 180
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T04:52:39", 
-    "display_time": "2016-04-23T21:52:39", 
-    "glucose": 245
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T04:47:37", 
-    "display_time": "2016-04-23T21:47:37", 
-    "glucose": 250
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "system_time": "2016-04-24T04:42:38", 
-    "display_time": "2016-04-23T21:42:37", 
-    "glucose": 248
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "system_time": "2016-04-24T04:37:38", 
-    "display_time": "2016-04-23T21:37:38", 
-    "glucose": 241
-  }, 
-  {
-    "trend_arrow": "DOUBLE_UP", 
-    "system_time": "2016-04-24T04:32:38", 
-    "display_time": "2016-04-23T21:32:38", 
-    "glucose": 230
-  }, 
-  {
-    "trend_arrow": "DOUBLE_UP", 
-    "system_time": "2016-04-24T04:27:38", 
-    "display_time": "2016-04-23T21:27:38", 
-    "glucose": 218
-  }, 
-  {
-    "trend_arrow": "DOUBLE_UP", 
-    "system_time": "2016-04-24T04:22:40", 
-    "display_time": "2016-04-23T21:22:40", 
-    "glucose": 203
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "system_time": "2016-04-24T04:17:38", 
-    "display_time": "2016-04-23T21:17:37", 
-    "glucose": 187
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "system_time": "2016-04-24T04:12:36", 
-    "display_time": "2016-04-23T21:12:36", 
-    "glucose": 167
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "system_time": "2016-04-24T04:07:44", 
-    "display_time": "2016-04-23T21:07:44", 
-    "glucose": 158
-  }, 
-  {
-    "trend_arrow": "SINGLE_UP", 
-    "system_time": "2016-04-24T04:02:41", 
-    "display_time": "2016-04-23T21:02:40", 
-    "glucose": 151
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T03:57:37", 
-    "display_time": "2016-04-23T20:57:37", 
-    "glucose": 133
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T03:52:36", 
-    "display_time": "2016-04-23T20:52:35", 
-    "glucose": 126
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T03:47:40", 
-    "display_time": "2016-04-23T20:47:40", 
-    "glucose": 115
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T03:42:57", 
-    "display_time": "2016-04-23T20:42:56", 
-    "glucose": 108
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T03:37:39", 
-    "display_time": "2016-04-23T20:37:39", 
-    "glucose": 100
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T03:27:44", 
-    "display_time": "2016-04-23T20:27:44", 
-    "glucose": 97
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T03:22:40", 
-    "display_time": "2016-04-23T20:22:39", 
-    "glucose": 90
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T03:17:42", 
-    "display_time": "2016-04-23T20:17:42", 
-    "glucose": 86
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T03:12:45", 
-    "display_time": "2016-04-23T20:12:44", 
-    "glucose": 86
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T03:07:40", 
-    "display_time": "2016-04-23T20:07:39", 
-    "glucose": 85
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T03:02:53", 
-    "display_time": "2016-04-23T20:02:52", 
-    "glucose": 86
+    "system_time": "2016-04-30T16:22:07", 
+    "display_time": "2016-04-30T09:22:07", 
+    "glucose": 182
   }, 
   {
     "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T02:57:40", 
-    "display_time": "2016-04-23T19:57:40", 
-    "glucose": 85
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T02:52:38", 
-    "display_time": "2016-04-23T19:52:38", 
-    "glucose": 91
-  }, 
-  {
-    "trend_arrow": "SINGLE_DOWN", 
-    "system_time": "2016-04-24T02:47:43", 
-    "display_time": "2016-04-23T19:47:42", 
-    "glucose": 91
-  }, 
-  {
-    "trend_arrow": "SINGLE_DOWN", 
-    "system_time": "2016-04-24T02:42:39", 
-    "display_time": "2016-04-23T19:42:39", 
-    "glucose": 101
-  }, 
-  {
-    "trend_arrow": "SINGLE_DOWN", 
-    "system_time": "2016-04-24T02:37:38", 
-    "display_time": "2016-04-23T19:37:38", 
-    "glucose": 112
-  }, 
-  {
-    "trend_arrow": "DOUBLE_DOWN", 
-    "system_time": "2016-04-24T02:32:39", 
-    "display_time": "2016-04-23T19:32:39", 
-    "glucose": 118
-  }, 
-  {
-    "trend_arrow": "SINGLE_DOWN", 
-    "system_time": "2016-04-24T02:27:42", 
-    "display_time": "2016-04-23T19:27:42", 
-    "glucose": 134
-  }, 
-  {
-    "trend_arrow": "SINGLE_DOWN", 
-    "system_time": "2016-04-24T02:22:42", 
-    "display_time": "2016-04-23T19:22:42", 
-    "glucose": 155
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T02:17:39", 
-    "display_time": "2016-04-23T19:17:38", 
-    "glucose": 167
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T02:12:43", 
-    "display_time": "2016-04-23T19:12:43", 
+    "system_time": "2016-04-30T16:17:09", 
+    "display_time": "2016-04-30T09:17:09", 
     "glucose": 177
   }, 
   {
     "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T02:02:39", 
-    "display_time": "2016-04-23T19:02:38", 
-    "glucose": 196
+    "system_time": "2016-04-30T16:12:08", 
+    "display_time": "2016-04-30T09:12:08", 
+    "glucose": 180
   }, 
   {
-    "trend_arrow": "45_DOWN", 
-    "system_time": "2016-04-24T01:57:39", 
-    "display_time": "2016-04-23T18:57:39", 
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T16:07:09", 
+    "display_time": "2016-04-30T09:07:08", 
+    "glucose": 189
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T15:47:04", 
+    "display_time": "2016-04-30T08:47:03", 
+    "glucose": 199
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T15:42:04", 
+    "display_time": "2016-04-30T08:42:04", 
+    "glucose": 202
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T15:37:08", 
+    "display_time": "2016-04-30T08:37:08", 
     "glucose": 204
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T01:42:42", 
-    "display_time": "2016-04-23T18:42:41", 
+    "system_time": "2016-04-30T15:32:24", 
+    "display_time": "2016-04-30T08:32:23", 
+    "glucose": 187
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T15:27:09", 
+    "display_time": "2016-04-30T08:27:08", 
+    "glucose": 184
+  }, 
+  {
+    "trend_arrow": "SINGLE_DOWN", 
+    "system_time": "2016-04-30T15:22:12", 
+    "display_time": "2016-04-30T08:22:12", 
+    "glucose": 185
+  }, 
+  {
+    "trend_arrow": "DOUBLE_DOWN", 
+    "system_time": "2016-04-30T15:17:06", 
+    "display_time": "2016-04-30T08:17:05", 
+    "glucose": 189
+  }, 
+  {
+    "trend_arrow": "DOUBLE_DOWN", 
+    "system_time": "2016-04-30T15:12:07", 
+    "display_time": "2016-04-30T08:12:07", 
+    "glucose": 201
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T15:07:11", 
+    "display_time": "2016-04-30T08:07:11", 
+    "glucose": 232
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T15:02:07", 
+    "display_time": "2016-04-30T08:02:07", 
+    "glucose": 245
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:57:09", 
+    "display_time": "2016-04-30T07:57:08", 
+    "glucose": 251
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:52:13", 
+    "display_time": "2016-04-30T07:52:12", 
+    "glucose": 256
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:47:04", 
+    "display_time": "2016-04-30T07:47:04", 
+    "glucose": 262
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:42:08", 
+    "display_time": "2016-04-30T07:42:07", 
+    "glucose": 269
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:37:24", 
+    "display_time": "2016-04-30T07:37:23", 
+    "glucose": 276
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:32:04", 
+    "display_time": "2016-04-30T07:32:04", 
+    "glucose": 284
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:27:05", 
+    "display_time": "2016-04-30T07:27:05", 
+    "glucose": 291
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:22:10", 
+    "display_time": "2016-04-30T07:22:10", 
+    "glucose": 299
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:17:07", 
+    "display_time": "2016-04-30T07:17:06", 
+    "glucose": 307
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:12:10", 
+    "display_time": "2016-04-30T07:12:10", 
+    "glucose": 315
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:07:06", 
+    "display_time": "2016-04-30T07:07:06", 
+    "glucose": 324
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T14:02:14", 
+    "display_time": "2016-04-30T07:02:14", 
+    "glucose": 333
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T13:57:11", 
+    "display_time": "2016-04-30T06:57:10", 
+    "glucose": 341
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T13:52:07", 
+    "display_time": "2016-04-30T06:52:07", 
+    "glucose": 347
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T13:47:08", 
+    "display_time": "2016-04-30T06:47:07", 
+    "glucose": 353
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T13:42:07", 
+    "display_time": "2016-04-30T06:42:06", 
+    "glucose": 359
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T13:37:06", 
+    "display_time": "2016-04-30T06:37:06", 
+    "glucose": 363
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T13:32:11", 
+    "display_time": "2016-04-30T06:32:11", 
+    "glucose": 363
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T13:27:07", 
+    "display_time": "2016-04-30T06:27:07", 
+    "glucose": 360
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T13:22:09", 
+    "display_time": "2016-04-30T06:22:08", 
+    "glucose": 352
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T13:17:11", 
+    "display_time": "2016-04-30T06:17:11", 
+    "glucose": 352
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T13:07:12", 
+    "display_time": "2016-04-30T06:07:11", 
+    "glucose": 326
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T13:02:07", 
+    "display_time": "2016-04-30T06:02:06", 
+    "glucose": 320
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:57:08", 
+    "display_time": "2016-04-30T05:57:08", 
+    "glucose": 320
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:52:08", 
+    "display_time": "2016-04-30T05:52:07", 
+    "glucose": 320
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:47:11", 
+    "display_time": "2016-04-30T05:47:11", 
+    "glucose": 320
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:42:09", 
+    "display_time": "2016-04-30T05:42:09", 
+    "glucose": 321
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:37:13", 
+    "display_time": "2016-04-30T05:37:13", 
+    "glucose": 321
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:32:16", 
+    "display_time": "2016-04-30T05:32:16", 
+    "glucose": 322
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:27:08", 
+    "display_time": "2016-04-30T05:27:08", 
+    "glucose": 325
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:22:10", 
+    "display_time": "2016-04-30T05:22:09", 
+    "glucose": 327
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:17:06", 
+    "display_time": "2016-04-30T05:17:06", 
+    "glucose": 328
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:12:07", 
+    "display_time": "2016-04-30T05:12:07", 
+    "glucose": 327
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:07:11", 
+    "display_time": "2016-04-30T05:07:10", 
+    "glucose": 327
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T12:02:07", 
+    "display_time": "2016-04-30T05:02:07", 
+    "glucose": 326
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:57:10", 
+    "display_time": "2016-04-30T04:57:09", 
+    "glucose": 325
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:52:08", 
+    "display_time": "2016-04-30T04:52:07", 
+    "glucose": 323
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:47:08", 
+    "display_time": "2016-04-30T04:47:08", 
+    "glucose": 322
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:42:09", 
+    "display_time": "2016-04-30T04:42:08", 
+    "glucose": 320
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:37:07", 
+    "display_time": "2016-04-30T04:37:07", 
+    "glucose": 317
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:32:15", 
+    "display_time": "2016-04-30T04:32:14", 
+    "glucose": 315
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:27:07", 
+    "display_time": "2016-04-30T04:27:07", 
+    "glucose": 312
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:22:07", 
+    "display_time": "2016-04-30T04:22:07", 
+    "glucose": 309
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:17:08", 
+    "display_time": "2016-04-30T04:17:08", 
+    "glucose": 307
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:12:10", 
+    "display_time": "2016-04-30T04:12:10", 
+    "glucose": 306
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:07:08", 
+    "display_time": "2016-04-30T04:07:08", 
+    "glucose": 307
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T11:02:09", 
+    "display_time": "2016-04-30T04:02:08", 
+    "glucose": 308
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:57:07", 
+    "display_time": "2016-04-30T03:57:06", 
+    "glucose": 310
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:52:12", 
+    "display_time": "2016-04-30T03:52:11", 
+    "glucose": 312
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:47:07", 
+    "display_time": "2016-04-30T03:47:07", 
+    "glucose": 314
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:42:09", 
+    "display_time": "2016-04-30T03:42:09", 
+    "glucose": 316
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:37:09", 
+    "display_time": "2016-04-30T03:37:08", 
+    "glucose": 315
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:32:10", 
+    "display_time": "2016-04-30T03:32:10", 
+    "glucose": 315
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:27:07", 
+    "display_time": "2016-04-30T03:27:07", 
+    "glucose": 315
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:22:07", 
+    "display_time": "2016-04-30T03:22:06", 
+    "glucose": 316
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:17:08", 
+    "display_time": "2016-04-30T03:17:08", 
+    "glucose": 316
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:12:08", 
+    "display_time": "2016-04-30T03:12:07", 
+    "glucose": 313
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:07:09", 
+    "display_time": "2016-04-30T03:07:09", 
+    "glucose": 310
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T10:02:08", 
+    "display_time": "2016-04-30T03:02:07", 
+    "glucose": 307
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T09:57:08", 
+    "display_time": "2016-04-30T02:57:08", 
+    "glucose": 303
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T09:52:11", 
+    "display_time": "2016-04-30T02:52:10", 
+    "glucose": 298
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T09:47:07", 
+    "display_time": "2016-04-30T02:47:07", 
+    "glucose": 295
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T09:42:07", 
+    "display_time": "2016-04-30T02:42:06", 
+    "glucose": 291
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T09:37:08", 
+    "display_time": "2016-04-30T02:37:07", 
+    "glucose": 287
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T09:32:13", 
+    "display_time": "2016-04-30T02:32:13", 
+    "glucose": 281
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T09:27:10", 
+    "display_time": "2016-04-30T02:27:10", 
+    "glucose": 276
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T09:22:08", 
+    "display_time": "2016-04-30T02:22:08", 
+    "glucose": 270
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T09:17:16", 
+    "display_time": "2016-04-30T02:17:16", 
+    "glucose": 266
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T09:12:16", 
+    "display_time": "2016-04-30T02:12:16", 
+    "glucose": 261
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T08:52:08", 
+    "display_time": "2016-04-30T01:52:08", 
+    "glucose": 255
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T08:47:12", 
+    "display_time": "2016-04-30T01:47:11", 
+    "glucose": 256
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T08:42:08", 
+    "display_time": "2016-04-30T01:42:08", 
+    "glucose": 260
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T08:37:12", 
+    "display_time": "2016-04-30T01:37:12", 
+    "glucose": 264
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T08:32:07", 
+    "display_time": "2016-04-30T01:32:07", 
+    "glucose": 260
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T06:57:09", 
+    "display_time": "2016-04-29T23:57:08", 
+    "glucose": 237
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T06:52:08", 
+    "display_time": "2016-04-29T23:52:08", 
+    "glucose": 233
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T06:47:09", 
+    "display_time": "2016-04-29T23:47:09", 
     "glucose": 229
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T01:37:48", 
-    "display_time": "2016-04-23T18:37:47", 
-    "glucose": 228
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T01:32:45", 
-    "display_time": "2016-04-23T18:32:44", 
-    "glucose": 228
+    "system_time": "2016-04-30T06:42:09", 
+    "display_time": "2016-04-29T23:42:08", 
+    "glucose": 225
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T01:27:39", 
-    "display_time": "2016-04-23T18:27:39", 
-    "glucose": 221
+    "system_time": "2016-04-30T06:37:11", 
+    "display_time": "2016-04-29T23:37:10", 
+    "glucose": 218
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T01:22:41", 
-    "display_time": "2016-04-23T18:22:40", 
+    "system_time": "2016-04-30T06:32:09", 
+    "display_time": "2016-04-29T23:32:09", 
     "glucose": 213
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T01:17:40", 
-    "display_time": "2016-04-23T18:17:39", 
-    "glucose": 209
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T01:12:39", 
-    "display_time": "2016-04-23T18:12:38", 
-    "glucose": 209
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-04-24T01:07:42", 
-    "display_time": "2016-04-23T18:07:42", 
-    "glucose": 205
+    "system_time": "2016-04-30T06:27:13", 
+    "display_time": "2016-04-29T23:27:12", 
+    "glucose": 211
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T01:02:42", 
-    "display_time": "2016-04-23T18:02:42", 
+    "system_time": "2016-04-30T06:22:08", 
+    "display_time": "2016-04-29T23:22:08", 
+    "glucose": 209
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T06:17:08", 
+    "display_time": "2016-04-29T23:17:07", 
+    "glucose": 208
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T06:12:09", 
+    "display_time": "2016-04-29T23:12:09", 
+    "glucose": 204
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T06:07:10", 
+    "display_time": "2016-04-29T23:07:10", 
+    "glucose": 199
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T06:02:13", 
+    "display_time": "2016-04-29T23:02:12", 
+    "glucose": 194
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:57:10", 
+    "display_time": "2016-04-29T22:57:09", 
+    "glucose": 188
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:52:08", 
+    "display_time": "2016-04-29T22:52:08", 
+    "glucose": 182
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:47:10", 
+    "display_time": "2016-04-29T22:47:09", 
+    "glucose": 176
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:42:09", 
+    "display_time": "2016-04-29T22:42:09", 
+    "glucose": 171
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:37:10", 
+    "display_time": "2016-04-29T22:37:10", 
+    "glucose": 166
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:32:10", 
+    "display_time": "2016-04-29T22:32:09", 
+    "glucose": 161
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:27:09", 
+    "display_time": "2016-04-29T22:27:08", 
+    "glucose": 157
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:22:14", 
+    "display_time": "2016-04-29T22:22:13", 
+    "glucose": 149
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:17:12", 
+    "display_time": "2016-04-29T22:17:11", 
+    "glucose": 143
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:12:13", 
+    "display_time": "2016-04-29T22:12:13", 
+    "glucose": 137
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:07:16", 
+    "display_time": "2016-04-29T22:07:15", 
+    "glucose": 131
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T05:02:12", 
+    "display_time": "2016-04-29T22:02:11", 
+    "glucose": 129
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-30T04:57:16", 
+    "display_time": "2016-04-29T21:57:16", 
+    "glucose": 122
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T04:47:08", 
+    "display_time": "2016-04-29T21:47:07", 
+    "glucose": 111
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T04:42:14", 
+    "display_time": "2016-04-29T21:42:14", 
+    "glucose": 106
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T04:37:13", 
+    "display_time": "2016-04-29T21:37:12", 
+    "glucose": 102
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T04:27:12", 
+    "display_time": "2016-04-29T21:27:11", 
+    "glucose": 100
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T04:22:13", 
+    "display_time": "2016-04-29T21:22:12", 
+    "glucose": 101
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T04:17:13", 
+    "display_time": "2016-04-29T21:17:12", 
+    "glucose": 105
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T04:07:08", 
+    "display_time": "2016-04-29T21:07:08", 
+    "glucose": 116
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-30T03:57:12", 
+    "display_time": "2016-04-29T20:57:12", 
+    "glucose": 132
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T03:32:11", 
+    "display_time": "2016-04-29T20:32:11", 
+    "glucose": 167
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T03:27:15", 
+    "display_time": "2016-04-29T20:27:14", 
+    "glucose": 171
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T03:22:12", 
+    "display_time": "2016-04-29T20:22:11", 
+    "glucose": 171
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T03:17:11", 
+    "display_time": "2016-04-29T20:17:10", 
+    "glucose": 173
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T03:12:09", 
+    "display_time": "2016-04-29T20:12:08", 
+    "glucose": 174
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T03:07:10", 
+    "display_time": "2016-04-29T20:07:10", 
+    "glucose": 175
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T03:02:12", 
+    "display_time": "2016-04-29T20:02:12", 
+    "glucose": 177
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T02:57:11", 
+    "display_time": "2016-04-29T19:57:11", 
+    "glucose": 176
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T02:52:08", 
+    "display_time": "2016-04-29T19:52:08", 
+    "glucose": 175
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T02:47:08", 
+    "display_time": "2016-04-29T19:47:08", 
+    "glucose": 173
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T02:42:10", 
+    "display_time": "2016-04-29T19:42:10", 
+    "glucose": 172
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T02:22:23", 
+    "display_time": "2016-04-29T19:22:22", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T02:17:08", 
+    "display_time": "2016-04-29T19:17:08", 
+    "glucose": 160
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T02:12:09", 
+    "display_time": "2016-04-29T19:12:09", 
+    "glucose": 160
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T02:07:10", 
+    "display_time": "2016-04-29T19:07:10", 
+    "glucose": 160
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T02:02:09", 
+    "display_time": "2016-04-29T19:02:09", 
+    "glucose": 159
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:57:11", 
+    "display_time": "2016-04-29T18:57:10", 
+    "glucose": 159
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:52:14", 
+    "display_time": "2016-04-29T18:52:14", 
+    "glucose": 159
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:47:10", 
+    "display_time": "2016-04-29T18:47:10", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:42:09", 
+    "display_time": "2016-04-29T18:42:09", 
+    "glucose": 161
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:37:09", 
+    "display_time": "2016-04-29T18:37:08", 
+    "glucose": 161
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:32:09", 
+    "display_time": "2016-04-29T18:32:09", 
+    "glucose": 162
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:27:09", 
+    "display_time": "2016-04-29T18:27:09", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:22:10", 
+    "display_time": "2016-04-29T18:22:09", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:17:09", 
+    "display_time": "2016-04-29T18:17:08", 
+    "glucose": 166
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:12:09", 
+    "display_time": "2016-04-29T18:12:08", 
+    "glucose": 169
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:07:33", 
+    "display_time": "2016-04-29T18:07:33", 
+    "glucose": 169
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T01:02:14", 
+    "display_time": "2016-04-29T18:02:13", 
+    "glucose": 165
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:57:10", 
+    "display_time": "2016-04-29T17:57:10", 
+    "glucose": 164
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:52:10", 
+    "display_time": "2016-04-29T17:52:09", 
+    "glucose": 170
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:47:08", 
+    "display_time": "2016-04-29T17:47:08", 
+    "glucose": 165
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:42:09", 
+    "display_time": "2016-04-29T17:42:08", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:37:10", 
+    "display_time": "2016-04-29T17:37:09", 
+    "glucose": 161
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:32:09", 
+    "display_time": "2016-04-29T17:32:09", 
+    "glucose": 161
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:27:09", 
+    "display_time": "2016-04-29T17:27:09", 
+    "glucose": 159
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:22:10", 
+    "display_time": "2016-04-29T17:22:09", 
+    "glucose": 159
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:17:09", 
+    "display_time": "2016-04-29T17:17:09", 
+    "glucose": 160
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:12:08", 
+    "display_time": "2016-04-29T17:12:08", 
+    "glucose": 159
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:07:09", 
+    "display_time": "2016-04-29T17:07:09", 
+    "glucose": 157
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-30T00:02:09", 
+    "display_time": "2016-04-29T17:02:08", 
+    "glucose": 158
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:57:12", 
+    "display_time": "2016-04-29T16:57:11", 
+    "glucose": 159
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:52:11", 
+    "display_time": "2016-04-29T16:52:10", 
+    "glucose": 157
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:47:11", 
+    "display_time": "2016-04-29T16:47:11", 
+    "glucose": 157
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:42:15", 
+    "display_time": "2016-04-29T16:42:15", 
+    "glucose": 157
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:37:10", 
+    "display_time": "2016-04-29T16:37:10", 
+    "glucose": 155
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:32:10", 
+    "display_time": "2016-04-29T16:32:10", 
+    "glucose": 152
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:27:13", 
+    "display_time": "2016-04-29T16:27:13", 
+    "glucose": 149
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:22:12", 
+    "display_time": "2016-04-29T16:22:11", 
+    "glucose": 150
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:17:12", 
+    "display_time": "2016-04-29T16:17:11", 
+    "glucose": 152
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T23:12:07", 
+    "display_time": "2016-04-29T16:12:07", 
+    "glucose": 155
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-29T23:07:11", 
+    "display_time": "2016-04-29T16:07:11", 
+    "glucose": 158
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-29T23:02:28", 
+    "display_time": "2016-04-29T16:02:27", 
+    "glucose": 164
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-04-29T22:52:11", 
+    "display_time": "2016-04-29T15:52:10", 
+    "glucose": 174
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T22:47:13", 
+    "display_time": "2016-04-29T15:47:13", 
+    "glucose": 182
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T22:37:16", 
+    "display_time": "2016-04-29T15:37:15", 
+    "glucose": 191
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T22:32:12", 
+    "display_time": "2016-04-29T15:32:11", 
     "glucose": 196
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T00:57:44", 
-    "display_time": "2016-04-23T17:57:44", 
-    "glucose": 193
+    "system_time": "2016-04-29T22:27:10", 
+    "display_time": "2016-04-29T15:27:10", 
+    "glucose": 197
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T00:52:42", 
-    "display_time": "2016-04-23T17:52:42", 
+    "system_time": "2016-04-29T22:22:11", 
+    "display_time": "2016-04-29T15:22:10", 
+    "glucose": 202
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T22:17:10", 
+    "display_time": "2016-04-29T15:17:09", 
+    "glucose": 206
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T22:12:10", 
+    "display_time": "2016-04-29T15:12:09", 
+    "glucose": 209
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T22:07:09", 
+    "display_time": "2016-04-29T15:07:09", 
+    "glucose": 210
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T22:02:14", 
+    "display_time": "2016-04-29T15:02:13", 
+    "glucose": 215
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-29T21:57:09", 
+    "display_time": "2016-04-29T14:57:09", 
+    "glucose": 217
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-29T21:52:10", 
+    "display_time": "2016-04-29T14:52:09", 
+    "glucose": 211
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-29T21:47:15", 
+    "display_time": "2016-04-29T14:47:14", 
+    "glucose": 207
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-29T21:42:11", 
+    "display_time": "2016-04-29T14:42:10", 
+    "glucose": 200
+  }, 
+  {
+    "trend_arrow": "SINGLE_UP", 
+    "system_time": "2016-04-29T21:37:10", 
+    "display_time": "2016-04-29T14:37:10", 
     "glucose": 191
   }, 
   {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T00:47:41", 
-    "display_time": "2016-04-23T17:47:41", 
-    "glucose": 184
+    "trend_arrow": "SINGLE_UP", 
+    "system_time": "2016-04-29T21:32:10", 
+    "display_time": "2016-04-29T14:32:10", 
+    "glucose": 182
+  }, 
+  {
+    "trend_arrow": "SINGLE_UP", 
+    "system_time": "2016-04-29T21:27:09", 
+    "display_time": "2016-04-29T14:27:09", 
+    "glucose": 172
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-29T21:22:09", 
+    "display_time": "2016-04-29T14:22:09", 
+    "glucose": 159
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-29T21:17:10", 
+    "display_time": "2016-04-29T14:17:10", 
+    "glucose": 147
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "system_time": "2016-04-29T21:12:10", 
+    "display_time": "2016-04-29T14:12:09", 
+    "glucose": 136
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T00:42:45", 
-    "display_time": "2016-04-23T17:42:44", 
-    "glucose": 187
+    "system_time": "2016-04-29T21:07:09", 
+    "display_time": "2016-04-29T14:07:09", 
+    "glucose": 130
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-04-24T00:32:39", 
-    "display_time": "2016-04-23T17:32:38", 
-    "glucose": 191
+    "system_time": "2016-04-29T21:02:11", 
+    "display_time": "2016-04-29T14:02:10", 
+    "glucose": 124
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T20:57:17", 
+    "display_time": "2016-04-29T13:57:17", 
+    "glucose": 117
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T20:52:13", 
+    "display_time": "2016-04-29T13:52:12", 
+    "glucose": 115
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T20:47:10", 
+    "display_time": "2016-04-29T13:47:10", 
+    "glucose": 115
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T20:42:11", 
+    "display_time": "2016-04-29T13:42:10", 
+    "glucose": 118
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T20:37:10", 
+    "display_time": "2016-04-29T13:37:10", 
+    "glucose": 117
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T20:32:14", 
+    "display_time": "2016-04-29T13:32:14", 
+    "glucose": 119
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:57:15", 
+    "display_time": "2016-04-29T11:57:14", 
+    "glucose": 143
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:52:11", 
+    "display_time": "2016-04-29T11:52:10", 
+    "glucose": 147
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:47:11", 
+    "display_time": "2016-04-29T11:47:10", 
+    "glucose": 151
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:42:10", 
+    "display_time": "2016-04-29T11:42:09", 
+    "glucose": 151
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:37:10", 
+    "display_time": "2016-04-29T11:37:09", 
+    "glucose": 158
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:32:13", 
+    "display_time": "2016-04-29T11:32:12", 
+    "glucose": 161
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:27:12", 
+    "display_time": "2016-04-29T11:27:11", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:22:20", 
+    "display_time": "2016-04-29T11:22:19", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:17:18", 
+    "display_time": "2016-04-29T11:17:17", 
+    "glucose": 165
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:12:12", 
+    "display_time": "2016-04-29T11:12:12", 
+    "glucose": 165
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:07:13", 
+    "display_time": "2016-04-29T11:07:13", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T18:02:11", 
+    "display_time": "2016-04-29T11:02:11", 
+    "glucose": 162
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:57:12", 
+    "display_time": "2016-04-29T10:57:12", 
+    "glucose": 162
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:52:11", 
+    "display_time": "2016-04-29T10:52:10", 
+    "glucose": 165
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:47:11", 
+    "display_time": "2016-04-29T10:47:11", 
+    "glucose": 166
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:42:11", 
+    "display_time": "2016-04-29T10:42:11", 
+    "glucose": 166
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:37:11", 
+    "display_time": "2016-04-29T10:37:11", 
+    "glucose": 167
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:32:11", 
+    "display_time": "2016-04-29T10:32:10", 
+    "glucose": 166
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:27:12", 
+    "display_time": "2016-04-29T10:27:11", 
+    "glucose": 167
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:22:12", 
+    "display_time": "2016-04-29T10:22:12", 
+    "glucose": 167
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:17:12", 
+    "display_time": "2016-04-29T10:17:11", 
+    "glucose": 166
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:12:11", 
+    "display_time": "2016-04-29T10:12:11", 
+    "glucose": 164
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:07:11", 
+    "display_time": "2016-04-29T10:07:10", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T17:02:17", 
+    "display_time": "2016-04-29T10:02:17", 
+    "glucose": 164
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:57:13", 
+    "display_time": "2016-04-29T09:57:12", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:52:13", 
+    "display_time": "2016-04-29T09:52:13", 
+    "glucose": 162
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:47:12", 
+    "display_time": "2016-04-29T09:47:11", 
+    "glucose": 161
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:42:14", 
+    "display_time": "2016-04-29T09:42:13", 
+    "glucose": 160
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:37:12", 
+    "display_time": "2016-04-29T09:37:11", 
+    "glucose": 159
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:32:16", 
+    "display_time": "2016-04-29T09:32:15", 
+    "glucose": 157
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:27:12", 
+    "display_time": "2016-04-29T09:27:12", 
+    "glucose": 148
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:22:12", 
+    "display_time": "2016-04-29T09:22:12", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:17:12", 
+    "display_time": "2016-04-29T09:17:11", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:12:11", 
+    "display_time": "2016-04-29T09:12:11", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:07:14", 
+    "display_time": "2016-04-29T09:07:14", 
+    "glucose": 149
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T16:02:11", 
+    "display_time": "2016-04-29T09:02:11", 
+    "glucose": 149
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:52:12", 
+    "display_time": "2016-04-29T08:52:11", 
+    "glucose": 133
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:47:16", 
+    "display_time": "2016-04-29T08:47:15", 
+    "glucose": 136
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:42:11", 
+    "display_time": "2016-04-29T08:42:11", 
+    "glucose": 136
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:37:11", 
+    "display_time": "2016-04-29T08:37:11", 
+    "glucose": 135
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:32:11", 
+    "display_time": "2016-04-29T08:32:10", 
+    "glucose": 134
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:27:11", 
+    "display_time": "2016-04-29T08:27:11", 
+    "glucose": 134
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:22:11", 
+    "display_time": "2016-04-29T08:22:11", 
+    "glucose": 134
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:17:11", 
+    "display_time": "2016-04-29T08:17:10", 
+    "glucose": 130
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:12:25", 
+    "display_time": "2016-04-29T08:12:25", 
+    "glucose": 128
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T15:07:17", 
+    "display_time": "2016-04-29T08:07:17", 
+    "glucose": 131
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T14:52:11", 
+    "display_time": "2016-04-29T07:52:11", 
+    "glucose": 138
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T14:47:13", 
+    "display_time": "2016-04-29T07:47:13", 
+    "glucose": 129
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-04-29T14:42:19", 
+    "display_time": "2016-04-29T07:42:18", 
+    "glucose": 133
   }
 ]
