@@ -7,32 +7,32 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-05-08T10:13:19.000Z", 
+      "timestamp": "2016-05-08T10:16:18.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 73.6, 
-    "clock": "2016-05-08T03:11:44-07:00"
+    "clock": "2016-05-08T03:14:42-07:00"
   }, 
   "openaps": {
     "suggested": {
       "bg": 258, 
       "temp": "absolute", 
-      "snoozeBG": 192, 
-      "timestamp": "2016-05-08T10:15:51.000Z", 
-      "reason": "Eventual BG 205>=140, adj. req. rate:6.4 to maxSafeBasal:3.6, temp 3.6 >~ req 3.6U/hr", 
-      "eventualBG": 205, 
-      "mealAssist": "On: 17%, 100%, Carbs: 0 Boluses: 0 Target: 110 Deviation: 13 BGI: -2.23", 
-      "tick": "+2"
+      "snoozeBG": 183, 
+      "timestamp": "2016-05-08T10:18:47.000Z", 
+      "reason": "Eventual BG 183>=140, adj. req. rate:5.4 to maxSafeBasal:3.6, temp 3.6 >~ req 3.6U/hr", 
+      "eventualBG": 183, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: 7 BGI: -2.44", 
+      "tick": "+0"
     }, 
     "iob": {
-      "netbasalinsulin": 3, 
-      "timestamp": "2016-05-08T10:13:16.000Z", 
-      "activity": 0.0149, 
-      "basaliob": 2.629, 
-      "hightempinsulin": 3, 
+      "netbasalinsulin": 3.15, 
+      "timestamp": "2016-05-08T10:16:16.000Z", 
+      "activity": 0.0163, 
+      "basaliob": 2.73, 
+      "hightempinsulin": 3.15, 
       "bolussnooze": 0, 
-      "iob": 2.629
+      "iob": 2.73
     }, 
     "enacted": {
       "bg": 258, 
@@ -41,22 +41,22 @@
         "duration", 
         "rate"
       ], 
-      "timestamp": "2016-05-08T10:15:51.000Z", 
-      "snoozeBG": 192, 
-      "reason": "Eventual BG 205>=140, adj. req. rate:6.4 to maxSafeBasal:3.6, temp 3.6 >~ req 3.6U/hr", 
-      "eventualBG": 205, 
+      "timestamp": "2016-05-08T10:18:48.000Z", 
+      "snoozeBG": 183, 
+      "reason": "Eventual BG 183>=140, adj. req. rate:5.4 to maxSafeBasal:3.6, temp 3.6 >~ req 3.6U/hr", 
+      "eventualBG": 183, 
       "error": "missing required input fields", 
       "input": {
         "bg": 258, 
         "temp": "absolute", 
-        "snoozeBG": 192, 
-        "reason": "Eventual BG 205>=140, adj. req. rate:6.4 to maxSafeBasal:3.6, temp 3.6 >~ req 3.6U/hr", 
-        "eventualBG": 205, 
-        "mealAssist": "On: 17%, 100%, Carbs: 0 Boluses: 0 Target: 110 Deviation: 13 BGI: -2.23", 
-        "tick": "+2"
+        "snoozeBG": 183, 
+        "reason": "Eventual BG 183>=140, adj. req. rate:5.4 to maxSafeBasal:3.6, temp 3.6 >~ req 3.6U/hr", 
+        "eventualBG": 183, 
+        "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: 7 BGI: -2.44", 
+        "tick": "+0"
       }, 
-      "mealAssist": "On: 17%, 100%, Carbs: 0 Boluses: 0 Target: 110 Deviation: 13 BGI: -2.23", 
-      "tick": "+2"
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: 7 BGI: -2.44", 
+      "tick": "+0"
     }
   }
 }
