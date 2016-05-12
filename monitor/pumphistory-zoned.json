@@ -1,5 +1,17 @@
 [
   {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-05-12T07:13:37 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-05-12T07:13:37-07:00", 
+    "_body": "", 
+    "programmed": 9.0, 
+    "_head": "015a5a00", 
+    "amount": 9.0, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "654d470c10"
+  }, 
+  {
     "unknown_byte[8]": 0, 
     "_type": "BolusWizard", 
     "bg": 321, 
