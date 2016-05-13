@@ -7,46 +7,55 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-05-13T06:37:13.000Z", 
+      "timestamp": "2016-05-13T06:40:17.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 73.6, 
-    "clock": "2016-05-12T23:35:34-07:00"
+    "clock": "2016-05-12T23:38:38-07:00"
   }, 
   "openaps": {
     "suggested": {
       "bg": 210, 
       "temp": "absolute", 
       "snoozeBG": 151, 
-      "timestamp": "2016-05-13T06:39:46.000Z", 
-      "rate": 3.45, 
-      "reason": "Eventual BG 170>=140, no temp, setting 3.433U/hr", 
+      "timestamp": "2016-05-13T06:42:44.000Z", 
+      "reason": "Eventual BG 170>=140, temp 3.45 >~ req 3.433U/hr", 
       "eventualBG": 170, 
-      "duration": 30, 
-      "mealAssist": "On: 25%, 25%, Carbs: 0 Boluses: 0 Target: 114 Deviation: 17 BGI: -2.62", 
+      "mealAssist": "On: 25%, 25%, Carbs: 0 Boluses: 0 Target: 114 Deviation: 17 BGI: -2.82", 
       "tick": "+3"
     }, 
     "iob": {
-      "netbasalinsulin": 3.1, 
-      "timestamp": "2016-05-13T06:37:11.000Z", 
-      "activity": 0.0175, 
-      "basaliob": 2.531, 
-      "hightempinsulin": 3.1, 
+      "netbasalinsulin": 3.15, 
+      "timestamp": "2016-05-13T06:40:15.000Z", 
+      "activity": 0.0188, 
+      "basaliob": 2.522, 
+      "hightempinsulin": 3.15, 
       "bolussnooze": 0, 
-      "iob": 2.531
+      "iob": 2.522
     }, 
     "enacted": {
       "bg": 210, 
       "temp": "absolute", 
+      "missing": [
+        "duration", 
+        "rate"
+      ], 
+      "timestamp": "2016-05-13T06:42:45.000Z", 
       "snoozeBG": 151, 
-      "recieved": true, 
-      "reason": "Eventual BG 170>=140, no temp, setting 3.433U/hr", 
-      "rate": 3.45, 
+      "reason": "Eventual BG 170>=140, temp 3.45 >~ req 3.433U/hr", 
       "eventualBG": 170, 
-      "timestamp": "2016-05-13T06:39:48.000Z", 
-      "duration": 30, 
-      "mealAssist": "On: 25%, 25%, Carbs: 0 Boluses: 0 Target: 114 Deviation: 17 BGI: -2.62", 
+      "error": "missing required input fields", 
+      "input": {
+        "bg": 210, 
+        "temp": "absolute", 
+        "snoozeBG": 151, 
+        "reason": "Eventual BG 170>=140, temp 3.45 >~ req 3.433U/hr", 
+        "eventualBG": 170, 
+        "mealAssist": "On: 25%, 25%, Carbs: 0 Boluses: 0 Target: 114 Deviation: 17 BGI: -2.82", 
+        "tick": "+3"
+      }, 
+      "mealAssist": "On: 25%, 25%, Carbs: 0 Boluses: 0 Target: 114 Deviation: 17 BGI: -2.82", 
       "tick": "+3"
     }
   }
