@@ -16,14 +16,16 @@
   }, 
   "openaps": {
     "suggested": {
-      "bg": 179, 
+      "bg": 107, 
       "temp": "absolute", 
-      "snoozeBG": 109, 
-      "timestamp": "2016-05-14T00:51:53.000Z", 
-      "reason": "Eventual BG 109>90 but Avg. Delta -7.00 < Exp. Delta -3.6, temp 1.1 ~ req 1.1U/hr", 
-      "eventualBG": 109, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -19 BGI: -3.79", 
-      "tick": -7
+      "snoozeBG": 70, 
+      "timestamp": "2016-05-14T02:31:05.000Z", 
+      "rate": 0, 
+      "reason": "Meal assist: 0g, 0U, setting -4.847U/hr", 
+      "eventualBG": 74, 
+      "duration": 30, 
+      "mealAssist": "On: 8%, 8%, Carbs: 0 Boluses: 0 Target: 115 Deviation: 14 BGI: -3.79", 
+      "tick": "+1"
     }, 
     "iob": {
       "netbasalinsulin": 3.55, 
@@ -35,28 +37,17 @@
       "iob": 1.685
     }, 
     "enacted": {
-      "bg": 179, 
+      "bg": 107, 
       "temp": "absolute", 
-      "missing": [
-        "duration", 
-        "rate"
-      ], 
-      "timestamp": "2016-05-14T00:51:54.000Z", 
-      "snoozeBG": 109, 
-      "reason": "Eventual BG 109>90 but Avg. Delta -7.00 < Exp. Delta -3.6, temp 1.1 ~ req 1.1U/hr", 
-      "eventualBG": 109, 
-      "error": "missing required input fields", 
-      "input": {
-        "bg": 179, 
-        "temp": "absolute", 
-        "snoozeBG": 109, 
-        "reason": "Eventual BG 109>90 but Avg. Delta -7.00 < Exp. Delta -3.6, temp 1.1 ~ req 1.1U/hr", 
-        "eventualBG": 109, 
-        "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -19 BGI: -3.79", 
-        "tick": -7
-      }, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 Target: 115 Deviation: -19 BGI: -3.79", 
-      "tick": -7
+      "snoozeBG": 70, 
+      "recieved": true, 
+      "reason": "Meal assist: 0g, 0U, setting -4.847U/hr", 
+      "rate": 0, 
+      "eventualBG": 74, 
+      "timestamp": "2016-05-14T02:31:07.000Z", 
+      "duration": 30, 
+      "mealAssist": "On: 8%, 8%, Carbs: 0 Boluses: 0 Target: 115 Deviation: 14 BGI: -3.79", 
+      "tick": "+1"
     }
   }
 }
