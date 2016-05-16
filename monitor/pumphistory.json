@@ -2,6 +2,25 @@
   {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-05-15T23:38:26 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-15T23:38:26", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "5a66174f10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-15T23:38:26 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-15T23:38:26", 
+    "_body": "00", 
+    "_head": "3316", 
+    "rate": 0.55, 
+    "_date": "5a66174f10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-05-15T23:17:27 head[2], body[0] op[0x16]", 
     "timestamp": "2016-05-15T23:17:27", 
     "_body": "", 
@@ -514,41 +533,5 @@
     "_head": "0300000026", 
     "amount": 3.8, 
     "_date": "6870350e10"
-  }, 
-  {
-    "_type": "Rewind", 
-    "_description": "Rewind 2016-05-14T19:35:07 head[2], body[0] op[0x21]", 
-    "timestamp": "2016-05-14T19:35:07", 
-    "_body": "", 
-    "_head": "2100", 
-    "_date": "4763130e10"
-  }, 
-  {
-    "_type": "ClearAlarm", 
-    "_description": "ClearAlarm 2016-05-14T19:35:03 head[2], body[0] op[0x0c]", 
-    "timestamp": "2016-05-14T19:35:03", 
-    "_body": "", 
-    "_head": "0c04", 
-    "_date": "4363130e10"
-  }, 
-  {
-    "_type": "AlarmPump", 
-    "_description": "AlarmPump 2016-05-14T19:33:52 head[4], body[0] op[0x06]", 
-    "timestamp": "2016-05-14T19:33:52", 
-    "_body": "", 
-    "_head": "06040bff", 
-    "_date": "7461534e10"
-  }, 
-  {
-    "programmed": 5.0, 
-    "_type": "Bolus", 
-    "type": "normal", 
-    "_description": "Bolus 2016-05-14T19:33:47 head[4], body[0] op[0x01]", 
-    "duration": 0, 
-    "timestamp": "2016-05-14T19:33:47", 
-    "_body": "", 
-    "_head": "01320100", 
-    "amount": 0.1, 
-    "_date": "6f61530e10"
   }
 ]
