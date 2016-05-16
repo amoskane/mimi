@@ -1,1 +1,0 @@
-{"error":{"errno":34,"code":"ENOENT","path":"settings/carb_ratios.json","syscall":"open"},"msg":"Could not parse carbratio_data. Feature Meal Assist enabled but cannot find required carb_ratios.","file":"settings/carb_ratios.json"}
