@@ -7,47 +7,47 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-05-16T20:55:38.000Z", 
+      "timestamp": "2016-05-16T20:58:52.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 73.6, 
-    "clock": "2016-05-16T13:53:57-07:00"
+    "clock": "2016-05-16T13:57:01-07:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 194, 
+      "bg": 196, 
       "temp": "absolute", 
-      "snoozeBG": 141, 
-      "timestamp": "2016-05-16T20:58:03.000Z", 
-      "rate": 1.9, 
-      "reason": "0.1U meal bolus remaining, Eventual BG 244>=140, temp 0.675<1.9U/hr", 
-      "eventualBG": 244, 
+      "snoozeBG": 138, 
+      "timestamp": "2016-05-16T21:01:00.000Z", 
+      "rate": 0.7, 
+      "reason": "0.1U meal bolus remaining, 154-138 in range: no temp required; setting current basal of 0.68 as temp", 
+      "eventualBG": 154, 
       "duration": 30, 
-      "mealAssist": "On: 100%, 100%, Carbs: 45 Boluses: 5 ISF: 50.8, Target: 110 Deviation: 50 BGI: -12.52", 
-      "tick": "+4"
+      "mealAssist": "On: 17%, 17%, Carbs: 45 Boluses: 5 ISF: 50.8, Target: 114 Deviation: 42 BGI: -12.06", 
+      "tick": "+2"
     }, 
     "iob": {
-      "netbasalinsulin": -0.5, 
-      "timestamp": "2016-05-16T20:55:35.000Z", 
-      "activity": 0.0493, 
-      "basaliob": -0.279, 
-      "hightempinsulin": 0.4, 
-      "bolussnooze": 0.035, 
-      "iob": 2.086
+      "netbasalinsulin": -0.45, 
+      "timestamp": "2016-05-16T20:58:49.000Z", 
+      "activity": 0.0475, 
+      "basaliob": -0.222, 
+      "hightempinsulin": 0.45, 
+      "bolussnooze": 0.007, 
+      "iob": 1.992
     }, 
     "enacted": {
-      "bg": 194, 
+      "bg": 196, 
       "temp": "absolute", 
-      "snoozeBG": 141, 
+      "snoozeBG": 138, 
       "recieved": true, 
-      "reason": "0.1U meal bolus remaining, Eventual BG 244>=140, temp 0.675<1.9U/hr", 
-      "rate": 1.875, 
-      "eventualBG": 244, 
-      "timestamp": "2016-05-16T20:58:05.000Z", 
+      "reason": "0.1U meal bolus remaining, 154-138 in range: no temp required; setting current basal of 0.68 as temp", 
+      "rate": 0.675, 
+      "eventualBG": 154, 
+      "timestamp": "2016-05-16T21:01:02.000Z", 
       "duration": 30, 
-      "mealAssist": "On: 100%, 100%, Carbs: 45 Boluses: 5 ISF: 50.8, Target: 110 Deviation: 50 BGI: -12.52", 
-      "tick": "+4"
+      "mealAssist": "On: 17%, 17%, Carbs: 45 Boluses: 5 ISF: 50.8, Target: 114 Deviation: 42 BGI: -12.06", 
+      "tick": "+2"
     }
   }
 }
