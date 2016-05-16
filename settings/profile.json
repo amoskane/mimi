@@ -1,1 +1,1 @@
-{"max_iob":6,"type":"current","dia":3,"current_basal":1.1,"max_daily_basal":1.3,"max_basal":6,"min_bg":90,"max_bg":140,"sens":30}
+{"error":{"errno":34,"code":"ENOENT","path":"settings/carb_ratios.json","syscall":"open"},"msg":"Could not parse carbratio_data. Feature Meal Assist enabled but cannot find required carb_ratios.","file":"settings/carb_ratios.json"}
