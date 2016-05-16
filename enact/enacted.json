@@ -2,7 +2,7 @@
   "bg": 131, 
   "temp": "absolute", 
   "snoozeBG": 134, 
-  "timestamp": "2016-05-16T03:34:00.371899", 
+  "timestamp": "2016-05-16T03:37:03.032556", 
   "missing": [
     "duration", 
     "rate"
@@ -16,9 +16,9 @@
     "eventualBG": 136, 
     "temp": "absolute", 
     "snoozeBG": 134, 
-    "mealAssist": "On: 22%, 22%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 114 Deviation: 11 BGI: -0.79", 
+    "mealAssist": "On: 22%, 22%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 114 Deviation: 11 BGI: -0.81", 
     "tick": "+8"
   }, 
-  "mealAssist": "On: 22%, 22%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 114 Deviation: 11 BGI: -0.79", 
+  "mealAssist": "On: 22%, 22%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 114 Deviation: 11 BGI: -0.81", 
   "tick": "+8"
 }
