@@ -12,14 +12,14 @@
       "suspended": false
     }, 
     "reservoir": 73.6, 
-    "clock": "2016-05-17T16:05:59-07:00"
+    "clock": "2016-05-17T16:09:18-07:00"
   }, 
   "openaps": {
     "suggested": {
       "bg": 223, 
       "temp": "absolute", 
       "snoozeBG": 192, 
-      "timestamp": "2016-05-17T23:10:20.000Z", 
+      "timestamp": "2016-05-17T23:13:16.000Z", 
       "rate": 2.2, 
       "reason": "Eventual BG 153>=140, temp 0.65<2.18U/hr", 
       "eventualBG": 153, 
@@ -44,7 +44,7 @@
       "reason": "Eventual BG 153>=140, temp 0.65<2.18U/hr", 
       "rate": 2.2, 
       "eventualBG": 153, 
-      "timestamp": "2016-05-17T23:10:22.000Z", 
+      "timestamp": "2016-05-17T23:13:18.000Z", 
       "duration": 30, 
       "mealAssist": "On: 17%, 17%, Carbs: 15 Boluses: 3.6 ISF: 50.8, Target: 114 Deviation: 30 BGI: -7.95", 
       "tick": "+2"
