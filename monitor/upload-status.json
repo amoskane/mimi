@@ -16,14 +16,14 @@
   }, 
   "openaps": {
     "suggested": {
-      "bg": 224, 
+      "bg": 189, 
       "temp": "absolute", 
-      "snoozeBG": 112, 
-      "timestamp": "2016-05-18T12:30:59.000Z", 
-      "reason": "Eventual BG 41<90, bolus snooze: eventual BG range 41-112, temp 0.55 ~ req 0.53U/hr", 
-      "eventualBG": 41, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 5.5 ISF: 50.8, Target: 115 Deviation: 7 BGI: -12.4", 
-      "tick": -10
+      "snoozeBG": 93, 
+      "timestamp": "2016-05-18T12:58:05.000Z", 
+      "reason": "Eventual BG 22<90, bolus snooze: eventual BG range 22-93, temp 0.55 ~ req 0.53U/hr", 
+      "eventualBG": 22, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 5.5 ISF: 50.8, Target: 115 Deviation: 23 BGI: -12.4", 
+      "tick": -4
     }, 
     "iob": {
       "netbasalinsulin": -0.15, 
@@ -35,28 +35,28 @@
       "iob": 3.748
     }, 
     "enacted": {
-      "bg": 224, 
+      "bg": 189, 
       "temp": "absolute", 
       "missing": [
         "duration", 
         "rate"
       ], 
-      "timestamp": "2016-05-18T12:31:00.000Z", 
-      "snoozeBG": 112, 
-      "reason": "Eventual BG 41<90, bolus snooze: eventual BG range 41-112, temp 0.55 ~ req 0.53U/hr", 
-      "eventualBG": 41, 
+      "timestamp": "2016-05-18T12:58:06.000Z", 
+      "snoozeBG": 93, 
+      "reason": "Eventual BG 22<90, bolus snooze: eventual BG range 22-93, temp 0.55 ~ req 0.53U/hr", 
+      "eventualBG": 22, 
       "error": "missing required input fields", 
       "input": {
-        "bg": 224, 
+        "bg": 189, 
         "temp": "absolute", 
-        "snoozeBG": 112, 
-        "reason": "Eventual BG 41<90, bolus snooze: eventual BG range 41-112, temp 0.55 ~ req 0.53U/hr", 
-        "eventualBG": 41, 
-        "mealAssist": "Off: Carbs: 0 Boluses: 5.5 ISF: 50.8, Target: 115 Deviation: 7 BGI: -12.4", 
-        "tick": -10
+        "snoozeBG": 93, 
+        "reason": "Eventual BG 22<90, bolus snooze: eventual BG range 22-93, temp 0.55 ~ req 0.53U/hr", 
+        "eventualBG": 22, 
+        "mealAssist": "Off: Carbs: 0 Boluses: 5.5 ISF: 50.8, Target: 115 Deviation: 23 BGI: -12.4", 
+        "tick": -4
       }, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 5.5 ISF: 50.8, Target: 115 Deviation: 7 BGI: -12.4", 
-      "tick": -10
+      "mealAssist": "Off: Carbs: 0 Boluses: 5.5 ISF: 50.8, Target: 115 Deviation: 23 BGI: -12.4", 
+      "tick": -4
     }
   }
 }
