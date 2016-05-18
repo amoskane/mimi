@@ -16,15 +16,13 @@
   }, 
   "openaps": {
     "suggested": {
-      "bg": 156, 
+      "bg": 158, 
       "temp": "absolute", 
-      "snoozeBG": 158, 
-      "timestamp": "2016-05-18T20:08:21.000Z", 
-      "rate": 2.35, 
-      "reason": "Eventual BG 159>=140, temp 0.65<2.359U/hr", 
-      "eventualBG": 159, 
-      "duration": 30, 
-      "mealAssist": "On: 8%, 8%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: 7 BGI: 1.83", 
+      "snoozeBG": 146, 
+      "timestamp": "2016-05-18T20:25:04.000Z", 
+      "reason": "Eventual BG 146>90 but Avg. Delta 0.67 < Exp. Delta 1, temp 0.65 ~ req 0.65U/hr", 
+      "eventualBG": 146, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -7 BGI: 1.83", 
       "tick": "+1"
     }, 
     "iob": {
@@ -37,16 +35,27 @@
       "iob": 0.105
     }, 
     "enacted": {
-      "bg": 156, 
+      "bg": 158, 
       "temp": "absolute", 
-      "snoozeBG": 158, 
-      "recieved": true, 
-      "reason": "Eventual BG 159>=140, temp 0.65<2.359U/hr", 
-      "rate": 2.35, 
-      "eventualBG": 159, 
-      "timestamp": "2016-05-18T20:08:23.000Z", 
-      "duration": 30, 
-      "mealAssist": "On: 8%, 8%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: 7 BGI: 1.83", 
+      "missing": [
+        "duration", 
+        "rate"
+      ], 
+      "timestamp": "2016-05-18T20:25:04.000Z", 
+      "snoozeBG": 146, 
+      "reason": "Eventual BG 146>90 but Avg. Delta 0.67 < Exp. Delta 1, temp 0.65 ~ req 0.65U/hr", 
+      "eventualBG": 146, 
+      "error": "missing required input fields", 
+      "input": {
+        "bg": 158, 
+        "temp": "absolute", 
+        "snoozeBG": 146, 
+        "reason": "Eventual BG 146>90 but Avg. Delta 0.67 < Exp. Delta 1, temp 0.65 ~ req 0.65U/hr", 
+        "eventualBG": 146, 
+        "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -7 BGI: 1.83", 
+        "tick": "+1"
+      }, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -7 BGI: 1.83", 
       "tick": "+1"
     }
   }
