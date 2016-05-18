@@ -7,51 +7,46 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-05-18T01:58:23.000Z", 
-      "bolusing": false, 
+      "timestamp": "2016-05-18T04:55:41.000Z", 
+      "bolusing": true, 
       "suspended": false
     }, 
     "reservoir": 73.6, 
-    "clock": "2016-05-17T19:02:39-07:00"
+    "clock": "2016-05-17T21:53:56-07:00"
   }, 
   "openaps": {
     "suggested": {
       "bg": 267, 
       "temp": "absolute", 
-      "snoozeBG": 551, 
-      "timestamp": "2016-05-18T04:55:01.000Z", 
-      "rate": 2.2, 
-      "reason": "Eventual BG 551>=140, adj. req. rate:11.0 to maxSafeBasal:2.2, temp 0.65<2.2U/hr", 
-      "eventualBG": 551, 
+      "snoozeBG": 152, 
+      "timestamp": "2016-05-18T04:57:51.000Z", 
+      "rate": 1.5, 
+      "reason": "4.7U meal bolus remaining, 116-152 in range: no temp required; setting current basal of 1.52 as temp", 
+      "eventualBG": 116, 
       "duration": 30, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 1 ISF: 50.8, Target: 115 Deviation: 276 BGI: -0.71", 
+      "mealAssist": "Off: Carbs: 90 Boluses: 5 ISF: 50.8, Target: 115 Deviation: 23 BGI: -12.73", 
       "tick": -5
     }, 
     "iob": {
-      "netbasalinsulin": -0.35, 
-      "timestamp": "2016-05-18T01:58:21.000Z", 
-      "activity": 0.0028, 
-      "basaliob": -0.375, 
-      "hightempinsulin": 0.4, 
-      "bolussnooze": 0, 
-      "iob": -0.275
+      "netbasalinsulin": 0.1, 
+      "timestamp": "2016-05-18T04:55:39.000Z", 
+      "activity": 0.0501, 
+      "basaliob": 0.248, 
+      "hightempinsulin": 0.25, 
+      "bolussnooze": 0.467, 
+      "iob": 3.425
     }, 
     "enacted": {
-      "requested": {
-        "duration": 30, 
-        "rate": 2.2, 
-        "temp": "absolute"
-      }, 
       "bg": 267, 
       "temp": "absolute", 
-      "snoozeBG": 551, 
-      "timestamp": "2016-05-18T04:55:03.000Z", 
-      "reason": "Eventual BG 551>=140, adj. req. rate:11.0 to maxSafeBasal:2.2, temp 0.65<2.2U/hr", 
-      "rate": 2.2, 
-      "eventualBG": 551, 
-      "recieved": false, 
-      "duration": 22, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 1 ISF: 50.8, Target: 115 Deviation: 276 BGI: -0.71", 
+      "snoozeBG": 152, 
+      "recieved": true, 
+      "reason": "4.7U meal bolus remaining, 116-152 in range: no temp required; setting current basal of 1.52 as temp", 
+      "rate": 1.5, 
+      "eventualBG": 116, 
+      "timestamp": "2016-05-18T04:57:53.000Z", 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 90 Boluses: 5 ISF: 50.8, Target: 115 Deviation: 23 BGI: -12.73", 
       "tick": -5
     }
   }
