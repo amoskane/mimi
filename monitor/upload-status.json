@@ -16,12 +16,12 @@
   }, 
   "openaps": {
     "suggested": {
-      "bg": 184, 
+      "bg": 180, 
       "temp": "absolute", 
-      "snoozeBG": 161, 
-      "timestamp": "2016-05-18T00:43:02.000Z", 
-      "reason": "Eventual BG 144>=140, temp 1.25 >~ req 0.97U/hr", 
-      "eventualBG": 144, 
+      "snoozeBG": 157, 
+      "timestamp": "2016-05-18T00:49:12.000Z", 
+      "reason": "Eventual BG 140>=140, temp 1.25 >~ req 0.91U/hr", 
+      "eventualBG": 140, 
       "mealAssist": "Off: Carbs: 15 Boluses: 4.6 ISF: 50.8, Target: 115 Deviation: 2 BGI: -4.78", 
       "tick": -4
     }, 
@@ -35,23 +35,23 @@
       "iob": 0.823
     }, 
     "enacted": {
-      "bg": 184, 
+      "bg": 180, 
       "temp": "absolute", 
       "missing": [
         "duration", 
         "rate"
       ], 
-      "timestamp": "2016-05-18T00:43:02.000Z", 
-      "snoozeBG": 161, 
-      "reason": "Eventual BG 144>=140, temp 1.25 >~ req 0.97U/hr", 
-      "eventualBG": 144, 
+      "timestamp": "2016-05-18T00:49:12.000Z", 
+      "snoozeBG": 157, 
+      "reason": "Eventual BG 140>=140, temp 1.25 >~ req 0.91U/hr", 
+      "eventualBG": 140, 
       "error": "missing required input fields", 
       "input": {
-        "bg": 184, 
+        "bg": 180, 
         "temp": "absolute", 
-        "snoozeBG": 161, 
-        "reason": "Eventual BG 144>=140, temp 1.25 >~ req 0.97U/hr", 
-        "eventualBG": 144, 
+        "snoozeBG": 157, 
+        "reason": "Eventual BG 140>=140, temp 1.25 >~ req 0.91U/hr", 
+        "eventualBG": 140, 
         "mealAssist": "Off: Carbs: 15 Boluses: 4.6 ISF: 50.8, Target: 115 Deviation: 2 BGI: -4.78", 
         "tick": -4
       }, 
