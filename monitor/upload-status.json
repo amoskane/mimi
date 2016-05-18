@@ -18,11 +18,11 @@
     "suggested": {
       "bg": 143, 
       "temp": "absolute", 
-      "snoozeBG": 129, 
-      "timestamp": "2016-05-18T19:31:01.000Z", 
-      "reason": "Eventual BG 129>90 but Avg. Delta 0.00 < Exp. Delta 1.4, temp 0.65 ~ req 0.65U/hr", 
-      "eventualBG": 129, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -9 BGI: 1.83", 
+      "snoozeBG": 127, 
+      "timestamp": "2016-05-18T19:40:01.000Z", 
+      "reason": "Eventual BG 127>90 but Avg. Delta 0.00 < Exp. Delta 1.5, temp 0.65 ~ req 0.65U/hr", 
+      "eventualBG": 127, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -11 BGI: 1.83", 
       "tick": "+0"
     }, 
     "iob": {
@@ -41,21 +41,21 @@
         "duration", 
         "rate"
       ], 
-      "timestamp": "2016-05-18T19:31:01.000Z", 
-      "snoozeBG": 129, 
-      "reason": "Eventual BG 129>90 but Avg. Delta 0.00 < Exp. Delta 1.4, temp 0.65 ~ req 0.65U/hr", 
-      "eventualBG": 129, 
+      "timestamp": "2016-05-18T19:40:02.000Z", 
+      "snoozeBG": 127, 
+      "reason": "Eventual BG 127>90 but Avg. Delta 0.00 < Exp. Delta 1.5, temp 0.65 ~ req 0.65U/hr", 
+      "eventualBG": 127, 
       "error": "missing required input fields", 
       "input": {
         "bg": 143, 
         "temp": "absolute", 
-        "snoozeBG": 129, 
-        "reason": "Eventual BG 129>90 but Avg. Delta 0.00 < Exp. Delta 1.4, temp 0.65 ~ req 0.65U/hr", 
-        "eventualBG": 129, 
-        "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -9 BGI: 1.83", 
+        "snoozeBG": 127, 
+        "reason": "Eventual BG 127>90 but Avg. Delta 0.00 < Exp. Delta 1.5, temp 0.65 ~ req 0.65U/hr", 
+        "eventualBG": 127, 
+        "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -11 BGI: 1.83", 
         "tick": "+0"
       }, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -9 BGI: 1.83", 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -11 BGI: 1.83", 
       "tick": "+0"
     }
   }
