@@ -2,6 +2,58 @@
   {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-05-18T11:14:37 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-18T11:14:37", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "654e0b5210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-18T11:14:37 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-18T11:14:37", 
+    "_body": "00", 
+    "_head": "332a", 
+    "rate": 1.05, 
+    "_date": "654e0b5210"
+  }, 
+  {
+    "_type": "LowReservoir", 
+    "_description": "LowReservoir 2016-05-18T11:12:17 head[2], body[0] op[0x34]", 
+    "timestamp": "2016-05-18T11:12:17", 
+    "_body": "", 
+    "_head": "3400", 
+    "amount": 0.0, 
+    "_date": "514c0b1210"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-05-18T11:12:16 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-05-18T11:12:16", 
+    "_body": "", 
+    "_head": "1a01", 
+    "_date": "504c0b1210"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-05-18T11:11:55 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-05-18T11:11:55", 
+    "_body": "", 
+    "_head": "1a00", 
+    "_date": "774b0b1210"
+  }, 
+  {
+    "_type": "LowBattery", 
+    "_description": "LowBattery 2016-05-18T11:02:00 head[2], body[0] op[0x19]", 
+    "timestamp": "2016-05-18T11:02:00", 
+    "_body": "", 
+    "_head": "1900", 
+    "_date": "40420b1210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-05-18T10:59:39 head[2], body[0] op[0x16]", 
     "timestamp": "2016-05-18T10:59:39", 
     "_body": "", 
