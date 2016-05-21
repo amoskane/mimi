@@ -17,7 +17,7 @@
   "openaps": {
     "suggested": [
       {
-        "msg": "BG data is too old, or clock set incorrectly Sat May 21 2016 12:30:29 GMT-0700 (PDT) vs Sat May 21 2016 12:45:46 GMT-0700 (PDT)"
+        "msg": "BG data is too old, or clock set incorrectly Sat May 21 2016 12:30:29 GMT-0700 (PDT) vs Sat May 21 2016 12:48:45 GMT-0700 (PDT)"
       }
     ], 
     "iob": {
