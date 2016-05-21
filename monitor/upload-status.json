@@ -19,7 +19,7 @@
       "bg": 79, 
       "temp": "absolute", 
       "snoozeBG": 41, 
-      "timestamp": "2016-05-21T15:18:47.000Z", 
+      "timestamp": "2016-05-21T15:21:45.000Z", 
       "rate": 0, 
       "reason": "Eventual BG 41<90, setting -7.962U/hr", 
       "eventualBG": 41, 
@@ -37,20 +37,15 @@
       "iob": 0.105
     }, 
     "enacted": {
-      "requested": {
-        "duration": 30, 
-        "rate": 0, 
-        "temp": "absolute"
-      }, 
       "bg": 79, 
       "temp": "absolute", 
       "snoozeBG": 41, 
-      "timestamp": "2016-05-21T15:18:57.000Z", 
+      "recieved": true, 
       "reason": "Eventual BG 41<90, setting -7.962U/hr", 
       "rate": 0, 
       "eventualBG": 41, 
-      "recieved": false, 
-      "duration": 28, 
+      "timestamp": "2016-05-21T15:21:46.000Z", 
+      "duration": 30, 
       "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 33.9, Target: 115 Deviation: -34 BGI: 1.22", 
       "tick": "+3"
     }
