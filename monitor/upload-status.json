@@ -16,14 +16,16 @@
   }, 
   "openaps": {
     "suggested": {
-      "bg": 204, 
+      "bg": 172, 
       "temp": "absolute", 
-      "snoozeBG": 154, 
-      "timestamp": "2016-05-21T20:30:54.000Z", 
-      "reason": "Eventual BG 154>90 but Avg. Delta -13.00 < Exp. Delta 0.7, temp 0.65 ~ req 0.65U/hr", 
-      "eventualBG": 154, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -45 BGI: 1.83", 
-      "tick": -13
+      "snoozeBG": 58, 
+      "timestamp": "2016-05-21T20:33:49.000Z", 
+      "rate": 0, 
+      "reason": "Eventual BG 58<90, setting -3.838U/hr", 
+      "eventualBG": 58, 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -109 BGI: 1.83", 
+      "tick": -32
     }, 
     "iob": {
       "netbasalinsulin": -0.8, 
@@ -35,28 +37,17 @@
       "iob": 0.105
     }, 
     "enacted": {
-      "bg": 204, 
+      "bg": 172, 
       "temp": "absolute", 
-      "missing": [
-        "duration", 
-        "rate"
-      ], 
-      "timestamp": "2016-05-21T20:30:54.000Z", 
-      "snoozeBG": 154, 
-      "reason": "Eventual BG 154>90 but Avg. Delta -13.00 < Exp. Delta 0.7, temp 0.65 ~ req 0.65U/hr", 
-      "eventualBG": 154, 
-      "error": "missing required input fields", 
-      "input": {
-        "bg": 204, 
-        "temp": "absolute", 
-        "snoozeBG": 154, 
-        "reason": "Eventual BG 154>90 but Avg. Delta -13.00 < Exp. Delta 0.7, temp 0.65 ~ req 0.65U/hr", 
-        "eventualBG": 154, 
-        "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -45 BGI: 1.83", 
-        "tick": -13
-      }, 
-      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -45 BGI: 1.83", 
-      "tick": -13
+      "snoozeBG": 58, 
+      "recieved": true, 
+      "reason": "Eventual BG 58<90, setting -3.838U/hr", 
+      "rate": 0, 
+      "eventualBG": 58, 
+      "timestamp": "2016-05-21T20:33:51.000Z", 
+      "duration": 30, 
+      "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -109 BGI: 1.83", 
+      "tick": -32
     }
   }
 }
