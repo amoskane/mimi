@@ -15,11 +15,6 @@
     "clock": "2016-05-18T12:08:57-07:00"
   }, 
   "openaps": {
-    "suggested": [
-      {
-        "msg": "BG data is too old, or clock set incorrectly Sat May 21 2016 12:30:29 GMT-0700 (PDT) vs Sat May 21 2016 12:48:45 GMT-0700 (PDT)"
-      }
-    ], 
     "iob": {
       "netbasalinsulin": -0.8, 
       "timestamp": "2016-05-21T05:51:33.000Z", 
