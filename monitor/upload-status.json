@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-05-21T05:51:33.000Z", 
+      "timestamp": "2016-05-23T01:33:46.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -19,7 +19,7 @@
       "bg": 152, 
       "temp": "absolute", 
       "snoozeBG": 178, 
-      "timestamp": "2016-05-22T00:12:47.000Z", 
+      "timestamp": "2016-05-23T01:33:46.000Z", 
       "rate": 2.6, 
       "reason": "Eventual BG 197>=140, adj. req. rate:3.3 to maxSafeBasal:2.6, temp 0.65<2.6U/hr", 
       "eventualBG": 197, 
@@ -29,7 +29,7 @@
     }, 
     "iob": {
       "netbasalinsulin": -0.8, 
-      "timestamp": "2016-05-21T05:51:33.000Z", 
+      "timestamp": "2016-05-23T01:33:46.000Z", 
       "activity": -0.0072, 
       "basaliob": 0.105, 
       "hightempinsulin": 0.7, 
@@ -44,7 +44,7 @@
       "reason": "Eventual BG 197>=140, adj. req. rate:3.3 to maxSafeBasal:2.6, temp 0.65<2.6U/hr", 
       "rate": 2.6, 
       "eventualBG": 197, 
-      "timestamp": "2016-05-22T00:12:49.000Z", 
+      "timestamp": "2016-05-23T01:33:46.000Z", 
       "duration": 30, 
       "mealAssist": "On: 62%, 62%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 112 Deviation: 31 BGI: 1.83", 
       "tick": "+35"
