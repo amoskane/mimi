@@ -19,7 +19,7 @@
       "bg": 94, 
       "temp": "absolute", 
       "snoozeBG": 74, 
-      "timestamp": "2016-05-23T20:58:10.000Z", 
+      "timestamp": "2016-05-23T21:01:08.000Z", 
       "rate": 0, 
       "reason": "Eventual BG 74<90, setting -2.578U/hr", 
       "eventualBG": 74, 
@@ -44,7 +44,7 @@
       "reason": "Eventual BG 74<90, setting -2.578U/hr", 
       "rate": 0, 
       "eventualBG": 74, 
-      "timestamp": "2016-05-23T20:58:11.000Z", 
+      "timestamp": "2016-05-23T21:01:10.000Z", 
       "duration": 30, 
       "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -15 BGI: 1.83", 
       "tick": "+1"
