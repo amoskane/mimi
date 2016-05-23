@@ -4,15 +4,15 @@
     "rate": 0.65, 
     "temp": "absolute"
   }, 
-  "bg": 179, 
+  "bg": 175, 
   "temp": "absolute", 
-  "snoozeBG": 143, 
-  "timestamp": "2016-05-23T16:46:18.965847", 
+  "snoozeBG": 139, 
+  "timestamp": "2016-05-23T16:49:18.984538", 
   "rate": 2.6, 
-  "reason": "Eventual BG 143>90 but Avg. Delta -3.33 < Exp. Delta 1.1; setting current basal of 0.65 as temp", 
-  "eventualBG": 143, 
+  "reason": "Eventual BG 139>90 but Avg. Delta -4.00 < Exp. Delta 1.2; setting current basal of 0.65 as temp", 
+  "eventualBG": 139, 
   "recieved": false, 
-  "duration": 10, 
+  "duration": 7, 
   "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -31 BGI: 1.83", 
-  "tick": -3
+  "tick": -4
 }
