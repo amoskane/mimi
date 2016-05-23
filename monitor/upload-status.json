@@ -19,7 +19,7 @@
       "bg": 194, 
       "temp": "absolute", 
       "snoozeBG": 189, 
-      "timestamp": "2016-05-23T23:25:11.000Z", 
+      "timestamp": "2016-05-23T23:28:09.000Z", 
       "rate": 2.6, 
       "reason": "Eventual BG 189>=140, adj. req. rate:3.6 to maxSafeBasal:2.6, no temp, setting 2.6U/hr", 
       "eventualBG": 189, 
@@ -37,15 +37,20 @@
       "iob": 0.105
     }, 
     "enacted": {
+      "requested": {
+        "duration": 30, 
+        "rate": 2.6, 
+        "temp": "absolute"
+      }, 
       "bg": 194, 
       "temp": "absolute", 
       "snoozeBG": 189, 
-      "recieved": true, 
+      "timestamp": "2016-05-23T23:28:17.000Z", 
       "reason": "Eventual BG 189>=140, adj. req. rate:3.6 to maxSafeBasal:2.6, no temp, setting 2.6U/hr", 
       "rate": 2.6, 
       "eventualBG": 189, 
-      "timestamp": "2016-05-23T23:25:12.000Z", 
-      "duration": 30, 
+      "recieved": false, 
+      "duration": 28, 
       "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: 0 BGI: 1.83", 
       "tick": "+4"
     }
