@@ -7,7 +7,7 @@
   "bg": 170, 
   "temp": "absolute", 
   "snoozeBG": 144, 
-  "timestamp": "2016-05-23T17:04:22.282189", 
+  "timestamp": "2016-05-23T17:07:16.959514", 
   "rate": 2.6, 
   "reason": "Eventual BG 144>90 but Avg. Delta -2.00 < Exp. Delta 1; setting current basal of 0.65 as temp", 
   "eventualBG": 144, 
