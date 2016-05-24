@@ -19,7 +19,7 @@
       "bg": 161, 
       "temp": "absolute", 
       "snoozeBG": 151, 
-      "timestamp": "2016-05-24T00:58:11.000Z", 
+      "timestamp": "2016-05-24T01:01:09.000Z", 
       "rate": 0.65, 
       "reason": "Eventual BG 151>90 but Avg. Delta -2.00 < Exp. Delta 0.8; setting current basal of 0.65 as temp", 
       "eventualBG": 151, 
@@ -44,7 +44,7 @@
       "reason": "Eventual BG 151>90 but Avg. Delta -2.00 < Exp. Delta 0.8; setting current basal of 0.65 as temp", 
       "rate": 0.65, 
       "eventualBG": 151, 
-      "timestamp": "2016-05-24T00:58:12.000Z", 
+      "timestamp": "2016-05-24T01:01:10.000Z", 
       "duration": 30, 
       "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -5 BGI: 1.83", 
       "tick": -2
