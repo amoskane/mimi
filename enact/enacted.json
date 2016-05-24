@@ -6,7 +6,7 @@
   "rate": 0.65, 
   "reason": "BG 68<70, delta 6>0; setting current basal of 0.65 as temp", 
   "eventualBG": 54, 
-  "timestamp": "2016-05-24T12:04:12.574123", 
+  "timestamp": "2016-05-24T12:07:09.943456", 
   "duration": 30, 
   "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -9 BGI: 1.83", 
   "tick": "+6"
