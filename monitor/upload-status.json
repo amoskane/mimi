@@ -19,7 +19,7 @@
       "bg": 114, 
       "temp": "absolute", 
       "snoozeBG": 111, 
-      "timestamp": "2016-05-24T19:28:10.000Z", 
+      "timestamp": "2016-05-24T19:31:01.000Z", 
       "rate": 0.65, 
       "reason": "111-111 in range: no temp required; setting current basal of 0.65 as temp", 
       "eventualBG": 111, 
@@ -44,7 +44,7 @@
       "reason": "111-111 in range: no temp required; setting current basal of 0.65 as temp", 
       "rate": 0.65, 
       "eventualBG": 111, 
-      "timestamp": "2016-05-24T19:28:12.000Z", 
+      "timestamp": "2016-05-24T19:31:02.000Z", 
       "duration": 30, 
       "mealAssist": "On: 4%, 4%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: 2 BGI: 1.83", 
       "tick": "+7"
