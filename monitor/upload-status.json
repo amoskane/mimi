@@ -19,13 +19,13 @@
       "bg": 176, 
       "temp": "absolute", 
       "snoozeBG": 158, 
-      "timestamp": "2016-05-26T08:45:26.000Z", 
+      "timestamp": "2016-05-26T08:49:24.000Z", 
       "rate": 0.55, 
-      "reason": "Eventual BG 158>90 but Avg. Delta -1.00 < Exp. Delta 0.6; setting current basal of 0.53 as temp", 
+      "reason": "Eventual BG 158>90 but Avg. Delta -0.33 < Exp. Delta 0.6; setting current basal of 0.53 as temp", 
       "eventualBG": 158, 
       "duration": 30, 
       "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -13 BGI: 1.83", 
-      "tick": -1
+      "tick": "+0"
     }, 
     "iob": {
       "netbasalinsulin": -0.8, 
@@ -41,13 +41,13 @@
       "temp": "absolute", 
       "snoozeBG": 158, 
       "recieved": true, 
-      "reason": "Eventual BG 158>90 but Avg. Delta -1.00 < Exp. Delta 0.6; setting current basal of 0.53 as temp", 
+      "reason": "Eventual BG 158>90 but Avg. Delta -0.33 < Exp. Delta 0.6; setting current basal of 0.53 as temp", 
       "rate": 0.55, 
       "eventualBG": 158, 
-      "timestamp": "2016-05-26T08:45:28.000Z", 
+      "timestamp": "2016-05-26T08:49:26.000Z", 
       "duration": 30, 
       "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 50.8, Target: 115 Deviation: -13 BGI: 1.83", 
-      "tick": -1
+      "tick": "+0"
     }
   }
 }
