@@ -6,7 +6,7 @@
   "rate": 2.775, 
   "reason": "Eventual BG 149>=140, no temp, setting 2.776U/hr", 
   "eventualBG": 149, 
-  "timestamp": "2016-05-26T07:33:15.073946", 
+  "timestamp": "2016-05-26T07:37:13.767653", 
   "duration": 30, 
   "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 33.9, Target: 115 Deviation: -3 BGI: 1.22", 
   "tick": "+1"
