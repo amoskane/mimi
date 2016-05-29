@@ -1,6 +1,42 @@
 [
   {
     "trend_arrow": "45_DOWN", 
+    "system_time": "2016-05-29T20:34:41", 
+    "display_time": "2016-05-29T13:34:41", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-05-29T20:29:39", 
+    "display_time": "2016-05-29T13:29:38", 
+    "glucose": 151
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-05-29T20:24:42", 
+    "display_time": "2016-05-29T13:24:41", 
+    "glucose": 158
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-05-29T20:19:42", 
+    "display_time": "2016-05-29T13:19:42", 
+    "glucose": 163
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-05-29T20:14:41", 
+    "display_time": "2016-05-29T13:14:40", 
+    "glucose": 170
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
+    "system_time": "2016-05-29T20:09:44", 
+    "display_time": "2016-05-29T13:09:43", 
+    "glucose": 177
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
     "system_time": "2016-05-29T20:04:42", 
     "display_time": "2016-05-29T13:04:41", 
     "glucose": 182
@@ -1690,41 +1726,5 @@
     "system_time": "2016-05-28T17:14:44", 
     "display_time": "2016-05-28T10:14:44", 
     "glucose": 165
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-05-28T17:09:45", 
-    "display_time": "2016-05-28T10:09:45", 
-    "glucose": 167
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-05-28T17:04:45", 
-    "display_time": "2016-05-28T10:04:45", 
-    "glucose": 170
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-05-28T16:59:44", 
-    "display_time": "2016-05-28T09:59:44", 
-    "glucose": 157
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-05-28T16:54:45", 
-    "display_time": "2016-05-28T09:54:45", 
-    "glucose": 153
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-05-28T16:49:49", 
-    "display_time": "2016-05-28T09:49:48", 
-    "glucose": 149
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-05-28T16:44:49", 
-    "display_time": "2016-05-28T09:44:49", 
-    "glucose": 145
   }
 ]
