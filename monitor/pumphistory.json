@@ -2,6 +2,25 @@
   {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-05-30T04:07:42 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-30T04:07:42", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "6a47045e10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-30T04:07:42 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-30T04:07:42", 
+    "_body": "00", 
+    "_head": "3337", 
+    "rate": 1.375, 
+    "_date": "6a47045e10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-05-30T03:59:42 head[2], body[0] op[0x16]", 
     "timestamp": "2016-05-30T03:59:42", 
     "_body": "", 
@@ -2070,22 +2089,5 @@
     "_body": "", 
     "_head": "06040bff", 
     "_date": "6850465d10"
-  }, 
-  {
-    "_type": "Model522ResultTotals", 
-    "_description": "Model522ResultTotals 2016-05-29T00:00:00 head[1], body[41] op[0x6d]", 
-    "timestamp": "2016-05-29T00:00:00", 
-    "_body": "0500b6b6b601000005d6041e4701b81d005501b81d01905b00000000280903020000010c00e8000000", 
-    "_head": "6d", 
-    "_date": "5c90"
-  }, 
-  {
-    "_type": "ResultDailyTotal", 
-    "_description": "ResultDailyTotal 2016-05-29T00:00:00 head[5], body[0] op[0x07]", 
-    "timestamp": "2016-05-29T00:00:00", 
-    "_body": "", 
-    "valid_date": "2016-05-28", 
-    "_head": "07000005d6", 
-    "_date": "5c90"
   }
 ]
