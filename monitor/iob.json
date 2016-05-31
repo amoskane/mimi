@@ -1,8 +1,8 @@
 {
-  "netbasalinsulin": 1.15, 
-  "activity": 0.0098, 
-  "basaliob": 0.502, 
-  "hightempinsulin": 1.35, 
-  "bolussnooze": 0, 
-  "iob": 0.502
+  "netbasalinsulin": 1.2, 
+  "activity": 0.0116, 
+  "basaliob": 0.476, 
+  "hightempinsulin": 1.4, 
+  "bolussnooze": 2.969, 
+  "iob": 3.465
 }
