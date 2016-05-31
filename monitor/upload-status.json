@@ -7,47 +7,56 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-05-31T01:09:30.000Z", 
+      "timestamp": "2016-05-31T01:17:31.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 87.7, 
-    "clock": "2016-05-30T18:07:51-07:00"
+    "reservoir": 87.3, 
+    "clock": "2016-05-30T18:15:49-07:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 151, 
+      "bg": 155, 
       "temp": "absolute", 
-      "snoozeBG": 175, 
-      "timestamp": "2016-05-31T01:09:09.000Z", 
-      "rate": 2.6, 
-      "reason": "Eventual BG 180>=130, adj. req. rate:3.1 to maxSafeBasal:2.6, temp 0<2.6U/hr", 
-      "eventualBG": 180, 
-      "duration": 30, 
-      "mealAssist": "On: 30%, 30%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 112 Deviation: 15 BGI: 0.1", 
-      "tick": "+5"
+      "snoozeBG": 179, 
+      "timestamp": "2016-05-31T01:17:08.000Z", 
+      "reason": "Eventual BG 181>=130, adj. req. rate:3.3 to maxSafeBasal:2.6, temp 2.6 >~ req 2.6U/hr", 
+      "eventualBG": 181, 
+      "mealAssist": "On: 22%, 22%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 113 Deviation: 11 BGI: 0.3", 
+      "tick": "+4"
     }, 
     "iob": {
-      "netbasalinsulin": -0.45, 
-      "timestamp": "2016-05-31T01:09:29.000Z", 
-      "activity": -0.0012, 
-      "basaliob": -0.435, 
-      "hightempinsulin": 0.05, 
+      "netbasalinsulin": -0.25, 
+      "timestamp": "2016-05-31T01:17:30.000Z", 
+      "activity": -0.0016, 
+      "basaliob": -0.223, 
+      "hightempinsulin": 0.25, 
       "bolussnooze": 0, 
-      "iob": -0.435
+      "iob": -0.223
     }, 
     "enacted": {
-      "bg": 151, 
+      "bg": 155, 
       "temp": "absolute", 
-      "snoozeBG": 175, 
-      "recieved": true, 
-      "reason": "Eventual BG 180>=130, adj. req. rate:3.1 to maxSafeBasal:2.6, temp 0<2.6U/hr", 
-      "rate": 2.6, 
-      "eventualBG": 180, 
-      "timestamp": "2016-05-31T01:09:11.000Z", 
-      "duration": 30, 
-      "mealAssist": "On: 30%, 30%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 112 Deviation: 15 BGI: 0.1", 
-      "tick": "+5"
+      "missing": [
+        "duration", 
+        "rate"
+      ], 
+      "timestamp": "2016-05-31T01:17:08.000Z", 
+      "snoozeBG": 179, 
+      "reason": "Eventual BG 181>=130, adj. req. rate:3.3 to maxSafeBasal:2.6, temp 2.6 >~ req 2.6U/hr", 
+      "eventualBG": 181, 
+      "error": "missing required input fields", 
+      "input": {
+        "bg": 155, 
+        "temp": "absolute", 
+        "snoozeBG": 179, 
+        "reason": "Eventual BG 181>=130, adj. req. rate:3.3 to maxSafeBasal:2.6, temp 2.6 >~ req 2.6U/hr", 
+        "eventualBG": 181, 
+        "mealAssist": "On: 22%, 22%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 113 Deviation: 11 BGI: 0.3", 
+        "tick": "+4"
+      }, 
+      "mealAssist": "On: 22%, 22%, Carbs: 0 Boluses: 0 ISF: 50.8, Target: 113 Deviation: 11 BGI: 0.3", 
+      "tick": "+4"
     }
   }
 }
