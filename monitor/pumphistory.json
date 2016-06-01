@@ -2,6 +2,44 @@
   {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-06-01T14:31:42 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-06-01T14:31:42", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "6a9f0e4110"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-06-01T14:31:42 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-06-01T14:31:42", 
+    "_body": "00", 
+    "_head": "332a", 
+    "rate": 1.05, 
+    "_date": "6a9f0e4110"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-06-01T14:27:32 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-06-01T14:27:32", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "609b0e4110"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-06-01T14:27:32 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-06-01T14:27:32", 
+    "_body": "00", 
+    "_head": "332c", 
+    "rate": 1.1, 
+    "_date": "609b0e4110"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-06-01T14:15:41 head[2], body[0] op[0x16]", 
     "timestamp": "2016-06-01T14:15:41", 
     "_body": "", 
@@ -2906,32 +2944,5 @@
     "_head": "3316", 
     "rate": 0.55, 
     "_date": "6b5f0a5f10"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-05-31T10:23:32 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-05-31T10:23:32", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "60570a5f10"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-05-31T10:23:32 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-05-31T10:23:32", 
-    "_body": "00", 
-    "_head": "331e", 
-    "rate": 0.75, 
-    "_date": "60570a5f10"
-  }, 
-  {
-    "_type": "Battery", 
-    "_description": "Battery 2016-05-31T10:15:45 head[2], body[0] op[0x1a]", 
-    "timestamp": "2016-05-31T10:15:45", 
-    "_body": "", 
-    "_head": "1a01", 
-    "_date": "6d4f0a1f10"
   }
 ]
