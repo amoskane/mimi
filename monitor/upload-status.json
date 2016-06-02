@@ -7,47 +7,47 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-06-02T03:17:55.000Z", 
+      "timestamp": "2016-06-02T03:26:01.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 0, 
-    "clock": "2016-06-01T20:16:08-07:00"
+    "clock": "2016-06-01T20:24:13-07:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 195, 
+      "bg": 188, 
       "temp": "absolute", 
-      "snoozeBG": 173, 
-      "timestamp": "2016-06-02T03:17:22.000Z", 
-      "rate": 2.35, 
-      "reason": "0.2U meal bolus remaining, Eventual BG 248>=130, temp 0.65<2.326U/hr", 
-      "eventualBG": 248, 
+      "snoozeBG": 163, 
+      "timestamp": "2016-06-02T03:25:27.000Z", 
+      "rate": 1.1, 
+      "reason": "0.2U meal bolus remaining, Eventual BG 163>=130, 30m@1.670 = 0.835 > req 0.22+0.1U. Setting neutral temp basal of 1.1U/hr", 
+      "eventualBG": 163, 
       "duration": 30, 
-      "mealAssist": "On: 100%, 100%, Carbs: 35 Boluses: 3.8 ISF: 84.7, Target: 105 Deviation: 53 BGI: -13.26", 
-      "tick": "+5"
+      "mealAssist": "Off: Carbs: 35 Boluses: 3.8 ISF: 84.7, Target: 115 Deviation: 9 BGI: -10.08", 
+      "tick": -7
     }, 
     "iob": {
-      "netbasalinsulin": -0.6, 
-      "timestamp": "2016-06-02T03:17:54.000Z", 
-      "activity": 0.0238, 
-      "basaliob": -0.443, 
-      "hightempinsulin": 0.25, 
+      "netbasalinsulin": -0.45, 
+      "timestamp": "2016-06-02T03:25:59.000Z", 
+      "activity": 0.0202, 
+      "basaliob": -0.264, 
+      "hightempinsulin": 0.4, 
       "bolussnooze": 0, 
-      "iob": 0.403
+      "iob": 0.384
     }, 
     "enacted": {
-      "bg": 195, 
+      "bg": 188, 
       "temp": "absolute", 
-      "snoozeBG": 173, 
+      "snoozeBG": 163, 
       "recieved": true, 
-      "reason": "0.2U meal bolus remaining, Eventual BG 248>=130, temp 0.65<2.326U/hr", 
-      "rate": 2.35, 
-      "eventualBG": 248, 
-      "timestamp": "2016-06-02T03:17:24.000Z", 
+      "reason": "0.2U meal bolus remaining, Eventual BG 163>=130, 30m@1.670 = 0.835 > req 0.22+0.1U. Setting neutral temp basal of 1.1U/hr", 
+      "rate": 1.1, 
+      "eventualBG": 163, 
+      "timestamp": "2016-06-02T03:25:29.000Z", 
       "duration": 30, 
-      "mealAssist": "On: 100%, 100%, Carbs: 35 Boluses: 3.8 ISF: 84.7, Target: 105 Deviation: 53 BGI: -13.26", 
-      "tick": "+5"
+      "mealAssist": "Off: Carbs: 35 Boluses: 3.8 ISF: 84.7, Target: 115 Deviation: 9 BGI: -10.08", 
+      "tick": -7
     }
   }
 }
