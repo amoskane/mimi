@@ -7,46 +7,46 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-06-02T08:13:56.000Z", 
+      "timestamp": "2016-06-02T08:17:46.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 157.9, 
-    "clock": "2016-06-02T01:12:11-07:00"
+    "reservoir": 157.8, 
+    "clock": "2016-06-02T01:15:59-07:00"
   }, 
   "openaps": {
     "suggested": {
       "bg": 222, 
       "temp": "absolute", 
-      "snoozeBG": 166, 
-      "timestamp": "2016-06-02T08:13:26.000Z", 
-      "rate": 1.6, 
-      "reason": "Eventual BG 166>=130, temp 1.425<1.61U/hr", 
-      "eventualBG": 166, 
+      "snoozeBG": 172, 
+      "timestamp": "2016-06-02T08:17:14.000Z", 
+      "rate": 1.75, 
+      "reason": "Eventual BG 172>=130, temp 1.6<1.73U/hr", 
+      "eventualBG": 172, 
       "duration": 30, 
-      "mealAssist": "Off: Carbs: 50 Boluses: 5 ISF: 84.7, Target: 115 Deviation: 47 BGI: -17.74", 
+      "mealAssist": "Off: Carbs: 50 Boluses: 5 ISF: 84.7, Target: 115 Deviation: 44 BGI: -16.73", 
       "tick": -2
     }, 
     "iob": {
-      "netbasalinsulin": 0.05, 
-      "timestamp": "2016-06-02T08:13:55.000Z", 
-      "activity": 0.0395, 
-      "basaliob": -0.113, 
-      "hightempinsulin": 0.8, 
+      "netbasalinsulin": 0.15, 
+      "timestamp": "2016-06-02T08:17:43.000Z", 
+      "activity": 0.0371, 
+      "basaliob": -0.069, 
+      "hightempinsulin": 0.85, 
       "bolussnooze": 0, 
-      "iob": 1.111
+      "iob": 1.021
     }, 
     "enacted": {
       "bg": 222, 
       "temp": "absolute", 
-      "snoozeBG": 166, 
+      "snoozeBG": 172, 
       "recieved": true, 
-      "reason": "Eventual BG 166>=130, temp 1.425<1.61U/hr", 
-      "rate": 1.6, 
-      "eventualBG": 166, 
-      "timestamp": "2016-06-02T08:13:27.000Z", 
+      "reason": "Eventual BG 172>=130, temp 1.6<1.73U/hr", 
+      "rate": 1.75, 
+      "eventualBG": 172, 
+      "timestamp": "2016-06-02T08:17:15.000Z", 
       "duration": 30, 
-      "mealAssist": "Off: Carbs: 50 Boluses: 5 ISF: 84.7, Target: 115 Deviation: 47 BGI: -17.74", 
+      "mealAssist": "Off: Carbs: 50 Boluses: 5 ISF: 84.7, Target: 115 Deviation: 44 BGI: -16.73", 
       "tick": -2
     }
   }
