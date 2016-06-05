@@ -1,6 +1,48 @@
 [
   {
     "trend_arrow": "FLAT", 
+    "system_time": "2016-06-05T12:44:08", 
+    "display_time": "2016-06-05T05:44:08", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-06-05T12:39:04", 
+    "display_time": "2016-06-05T05:39:04", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-06-05T12:34:05", 
+    "display_time": "2016-06-05T05:34:05", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-06-05T12:29:06", 
+    "display_time": "2016-06-05T05:29:06", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-06-05T12:24:06", 
+    "display_time": "2016-06-05T05:24:05", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-06-05T12:19:05", 
+    "display_time": "2016-06-05T05:19:05", 
+    "glucose": 145
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "system_time": "2016-06-05T12:14:10", 
+    "display_time": "2016-06-05T05:14:09", 
+    "glucose": 146
+  }, 
+  {
+    "trend_arrow": "FLAT", 
     "system_time": "2016-06-05T12:09:05", 
     "display_time": "2016-06-05T05:09:05", 
     "glucose": 146
@@ -1684,47 +1726,5 @@
     "system_time": "2016-06-04T09:59:13", 
     "display_time": "2016-06-04T02:59:13", 
     "glucose": 216
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-06-04T09:54:11", 
-    "display_time": "2016-06-04T02:54:11", 
-    "glucose": 211
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-06-04T09:49:10", 
-    "display_time": "2016-06-04T02:49:10", 
-    "glucose": 206
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-06-04T09:44:11", 
-    "display_time": "2016-06-04T02:44:11", 
-    "glucose": 202
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-06-04T09:39:13", 
-    "display_time": "2016-06-04T02:39:13", 
-    "glucose": 198
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-06-04T09:34:15", 
-    "display_time": "2016-06-04T02:34:14", 
-    "glucose": 193
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-06-04T09:29:14", 
-    "display_time": "2016-06-04T02:29:14", 
-    "glucose": 186
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "system_time": "2016-06-04T09:24:13", 
-    "display_time": "2016-06-04T02:24:13", 
-    "glucose": 178
   }
 ]
