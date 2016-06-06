@@ -1,5 +1,44 @@
 [
   {
+    "_type": "Prime", 
+    "_description": "Prime 2016-06-06T10:03:31 head[5], body[0] op[0x03]", 
+    "timestamp": "2016-06-06T10:03:31-07:00", 
+    "_body": "", 
+    "_head": "0300030003", 
+    "amount": 0.3, 
+    "fixed": 0.3, 
+    "type": "fixed", 
+    "_date": "5f830a0610"
+  }, 
+  {
+    "_type": "Prime", 
+    "_description": "Prime 2016-06-06T10:03:06 head[5], body[0] op[0x03]", 
+    "timestamp": "2016-06-06T10:03:06-07:00", 
+    "_body": "", 
+    "_head": "0300000000", 
+    "amount": 0.0, 
+    "fixed": 0.0, 
+    "type": "manual", 
+    "_date": "46832a0610"
+  }, 
+  {
+    "_type": "Rewind", 
+    "_description": "Rewind 2016-06-06T10:02:32 head[2], body[0] op[0x21]", 
+    "timestamp": "2016-06-06T10:02:32-07:00", 
+    "_body": "", 
+    "_head": "2100", 
+    "_date": "60820a0610"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-06-06T10:00:32 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-06-06T10:00:32-07:00", 
+    "_body": "", 
+    "_head": "0a0f", 
+    "amount": 271, 
+    "_date": "60802a0690"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2016-06-06T09:55:33 head[2], body[0] op[0x16]", 
     "timestamp": "2016-06-06T09:55:33-07:00", 
