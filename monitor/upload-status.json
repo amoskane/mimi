@@ -7,47 +7,47 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-06-07T18:09:30.000Z", 
+      "timestamp": "2016-06-07T18:13:24.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 41.4, 
-    "clock": "2016-06-07T11:07:50-07:00"
+    "reservoir": 41.2, 
+    "clock": "2016-06-07T11:11:41-07:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 190, 
+      "bg": 195, 
       "temp": "absolute", 
-      "snoozeBG": 197, 
-      "timestamp": "2016-06-07T18:09:09.000Z", 
-      "rate": 2.75, 
-      "reason": "Eventual BG 198>=130, temp 0.75<2.739U/hr", 
-      "eventualBG": 198, 
+      "snoozeBG": 437, 
+      "timestamp": "2016-06-07T18:13:01.000Z", 
+      "rate": 3.9, 
+      "reason": "0.7U meal bolus remaining, Eventual BG 230>=130, adj. req. rate:4.0 to maxSafeBasal:3.9, temp 2.75<3.9U/hr", 
+      "eventualBG": 230, 
       "duration": 30, 
-      "mealAssist": "On: 14%, 14%, Carbs: 0 Boluses: 0 ISF: 84.7, Target: 114 Deviation: 7 BGI: 0.76", 
-      "tick": "+3"
+      "mealAssist": "On: 100%, 100%, Carbs: 55 Boluses: 6.8 ISF: 84.7, Target: 105 Deviation: 35 BGI: -7.58", 
+      "tick": "+5"
     }, 
     "iob": {
-      "netbasalinsulin": 0, 
-      "timestamp": "2016-06-07T18:09:29.000Z", 
-      "activity": 0.0179, 
-      "basaliob": 0.05, 
-      "hightempinsulin": 0.05, 
-      "bolussnooze": 6.052, 
-      "iob": 6.641
+      "netbasalinsulin": 0.1, 
+      "timestamp": "2016-06-07T18:13:22.000Z", 
+      "activity": 0.0218, 
+      "basaliob": 0.15, 
+      "hightempinsulin": 0.15, 
+      "bolussnooze": 5.728, 
+      "iob": 6.655
     }, 
     "enacted": {
-      "bg": 190, 
+      "bg": 195, 
       "temp": "absolute", 
-      "snoozeBG": 197, 
+      "snoozeBG": 437, 
       "recieved": true, 
-      "reason": "Eventual BG 198>=130, temp 0.75<2.739U/hr", 
-      "rate": 2.75, 
-      "eventualBG": 198, 
-      "timestamp": "2016-06-07T18:09:11.000Z", 
+      "reason": "0.7U meal bolus remaining, Eventual BG 230>=130, adj. req. rate:4.0 to maxSafeBasal:3.9, temp 2.75<3.9U/hr", 
+      "rate": 3.9, 
+      "eventualBG": 230, 
+      "timestamp": "2016-06-07T18:13:02.000Z", 
       "duration": 30, 
-      "mealAssist": "On: 14%, 14%, Carbs: 0 Boluses: 0 ISF: 84.7, Target: 114 Deviation: 7 BGI: 0.76", 
-      "tick": "+3"
+      "mealAssist": "On: 100%, 100%, Carbs: 55 Boluses: 6.8 ISF: 84.7, Target: 105 Deviation: 35 BGI: -7.58", 
+      "tick": "+5"
     }
   }
 }
