@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":173,"tick":-1,"eventualBG":-151,"snoozeBG":299,"mealAssist":"Off: Carbs: 45 Boluses: 4.5 ISF: 84.7, Target: 115 Deviation: 21 BGI: -7.88","reason":"Eventual BG -151<100, bolus snooze: eventual BG range -151-299, temp 0.55 ~ req 0.56U/hr"}
+{"temp":"absolute","bg":170,"tick":-3,"eventualBG":-147,"snoozeBG":264,"mealAssist":"Off: Carbs: 45 Boluses: 4.5 ISF: 84.7, Target: 115 Deviation: 17 BGI: -8.81","reason":"Eventual BG -147<100, bolus snooze: eventual BG range -147-264; setting current basal of 0.56 as temp","duration":30,"rate":0.55}
