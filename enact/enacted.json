@@ -1,24 +1,24 @@
 {
   "bg": 164, 
   "temp": "absolute", 
-  "snoozeBG": 160, 
-  "timestamp": "2016-06-09T10:01:08.021698", 
+  "snoozeBG": 157, 
+  "timestamp": "2016-06-09T10:05:12.637029", 
   "missing": [
     "duration", 
     "rate"
   ], 
-  "reason": "Eventual BG 161>=130, temp 1.875 >~ req 1.851U/hr", 
-  "eventualBG": 161, 
+  "reason": "Eventual BG 157>=130, temp 1.875 >~ req 1.762U/hr", 
+  "eventualBG": 157, 
   "error": "missing required input fields", 
   "input": {
-    "reason": "Eventual BG 161>=130, temp 1.875 >~ req 1.851U/hr", 
+    "reason": "Eventual BG 157>=130, temp 1.875 >~ req 1.762U/hr", 
     "bg": 164, 
-    "eventualBG": 161, 
+    "eventualBG": 157, 
     "temp": "absolute", 
-    "snoozeBG": 160, 
-    "mealAssist": "On: 8%, 8%, Carbs: 0 Boluses: 0 ISF: 84.7, Target: 114 Deviation: 8 BGI: -1.82", 
-    "tick": "+2"
+    "snoozeBG": 157, 
+    "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 84.7, Target: 115 Deviation: 5 BGI: -1.82", 
+    "tick": "+0"
   }, 
-  "mealAssist": "On: 8%, 8%, Carbs: 0 Boluses: 0 ISF: 84.7, Target: 114 Deviation: 8 BGI: -1.82", 
-  "tick": "+2"
+  "mealAssist": "Off: Carbs: 0 Boluses: 0 ISF: 84.7, Target: 115 Deviation: 5 BGI: -1.82", 
+  "tick": "+0"
 }
