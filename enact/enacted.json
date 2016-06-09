@@ -1,13 +1,24 @@
 {
-  "bg": 241, 
+  "bg": 247, 
   "temp": "absolute", 
-  "snoozeBG": 248, 
-  "recieved": true, 
-  "rate": 2.775, 
-  "reason": "0.5U meal bolus remaining, Eventual BG 380>=130, adj. req. rate:4.1 to maxSafeBasal:2.8, temp 0.65<2.8U/hr", 
-  "eventualBG": 380, 
-  "timestamp": "2016-06-09T00:49:28.750630", 
-  "duration": 30, 
-  "mealAssist": "On: 100%, 100%, Carbs: 45 Boluses: 4.5 ISF: 84.7, Target: 105 Deviation: 133 BGI: -17.41", 
-  "tick": "+58"
+  "snoozeBG": 193, 
+  "timestamp": "2016-06-09T00:53:27.756196", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "reason": "0.4U meal bolus remaining, Eventual BG 315>=130, adj. req. rate:2.7 to maxSafeBasal:2.6, temp 2.775 >~ req 2.6U/hr", 
+  "eventualBG": 315, 
+  "error": "missing required input fields", 
+  "input": {
+    "reason": "0.4U meal bolus remaining, Eventual BG 315>=130, adj. req. rate:2.7 to maxSafeBasal:2.6, temp 2.775 >~ req 2.6U/hr", 
+    "bg": 247, 
+    "eventualBG": 315, 
+    "temp": "absolute", 
+    "snoozeBG": 193, 
+    "mealAssist": "On: 100%, 100%, Carbs: 45 Boluses: 4.5 ISF: 84.7, Target: 105 Deviation: 68 BGI: -16.52", 
+    "tick": "+6"
+  }, 
+  "mealAssist": "On: 100%, 100%, Carbs: 45 Boluses: 4.5 ISF: 84.7, Target: 105 Deviation: 68 BGI: -16.52", 
+  "tick": "+6"
 }
