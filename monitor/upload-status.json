@@ -7,47 +7,47 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-07-18T20:17:33.000Z", 
+      "timestamp": "2016-07-18T20:21:36.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 9.9, 
-    "clock": "2016-07-18T21:16:20-07:00"
+    "reservoir": 7.3, 
+    "clock": "2016-07-18T21:20:23-07:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 240, 
+      "bg": 245, 
       "temp": "absolute", 
-      "snoozeBG": 176, 
-      "timestamp": "2016-07-18T20:17:12.000Z", 
-      "rate": 1.85, 
-      "reason": "Eventual BG 161>=130, temp 0.65<1.873U/hr", 
-      "eventualBG": 161, 
+      "snoozeBG": 217, 
+      "timestamp": "2016-07-18T20:21:15.000Z", 
+      "rate": 0.65, 
+      "reason": "Meal assist: 55g, 10.1U, bolus snooze: eventual BG range 51-217; setting current basal of 0.65 as temp", 
+      "eventualBG": 51, 
       "duration": 30, 
-      "mealAssist": "On: 58%, 58%, Carbs: 55 Boluses: 6.1 ISF: 84.7, Target: 109 Deviation: 107 BGI: -28.76", 
-      "tick": "+7"
+      "mealAssist": "On: 42%, 100%, Carbs: 55 Boluses: 10.1 ISF: 84.7, Target: 105 Deviation: 174 BGI: -53.02", 
+      "tick": "+5"
     }, 
     "iob": {
-      "netbasalinsulin": 0.45, 
-      "timestamp": "2016-07-18T20:17:32.000Z", 
-      "activity": 0.1252, 
-      "basaliob": 0.145, 
+      "netbasalinsulin": 0.4, 
+      "timestamp": "2016-07-18T20:21:35.000Z", 
+      "activity": 0.1293, 
+      "basaliob": 0.071, 
       "hightempinsulin": 1.1, 
-      "bolussnooze": 3.401, 
-      "iob": 7.485
+      "bolussnooze": 5.215, 
+      "iob": 9.381
     }, 
     "enacted": {
-      "bg": 240, 
+      "bg": 245, 
       "temp": "absolute", 
-      "snoozeBG": 176, 
+      "snoozeBG": 217, 
       "recieved": true, 
-      "reason": "Eventual BG 161>=130, temp 0.65<1.873U/hr", 
-      "rate": 1.85, 
-      "eventualBG": 161, 
-      "timestamp": "2016-07-18T20:17:14.000Z", 
+      "reason": "Meal assist: 55g, 10.1U, bolus snooze: eventual BG range 51-217; setting current basal of 0.65 as temp", 
+      "rate": 0.65, 
+      "eventualBG": 51, 
+      "timestamp": "2016-07-18T20:21:16.000Z", 
       "duration": 30, 
-      "mealAssist": "On: 58%, 58%, Carbs: 55 Boluses: 6.1 ISF: 84.7, Target: 109 Deviation: 107 BGI: -28.76", 
-      "tick": "+7"
+      "mealAssist": "On: 42%, 100%, Carbs: 55 Boluses: 10.1 ISF: 84.7, Target: 105 Deviation: 174 BGI: -53.02", 
+      "tick": "+5"
     }
   }
 }
