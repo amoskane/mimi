@@ -6,7 +6,7 @@
   "rate": 2.6, 
   "reason": "0.3U meal bolus remaining, Eventual BG 191>=130, temp 0<2.602U/hr", 
   "eventualBG": 191, 
-  "timestamp": "2016-07-18T17:25:12.966972", 
+  "timestamp": "2016-07-18T17:29:11.126499", 
   "duration": 30, 
   "mealAssist": "On: 3%, 3%, Carbs: 15 Boluses: 1.5 ISF: 84.7, Target: 115 Deviation: 12 BGI: -3.81", 
   "tick": "+3"
