@@ -1,5 +1,92 @@
 [
   {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-07-19T13:30:40 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-07-19T13:30:40-07:00", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[26], body[0] op[0x5c]", 
+        "_body": "", 
+        "_head": "5c1a3e5680626080586a8014b08002c4804ece80505a903c6e90", 
+        "data": [
+          {
+            "amount": 1.55, 
+            "age": 86
+          }, 
+          {
+            "amount": 2.45, 
+            "age": 96
+          }, 
+          {
+            "amount": 2.2, 
+            "age": 106
+          }, 
+          {
+            "amount": 0.5, 
+            "age": 176
+          }, 
+          {
+            "amount": 0.05, 
+            "age": 196
+          }, 
+          {
+            "amount": 1.95, 
+            "age": 206
+          }, 
+          {
+            "amount": 2.0, 
+            "age": 346
+          }, 
+          {
+            "amount": 1.5, 
+            "age": 366
+          }
+        ], 
+        "_date": ""
+      }
+    ], 
+    "programmed": 1.6, 
+    "duration": 0, 
+    "amount": 1.6, 
+    "_head": "01101000", 
+    "type": "normal", 
+    "_date": "68de4d1310"
+  }, 
+  {
+    "unknown_byte[8]": 0, 
+    "_type": "BolusWizard", 
+    "bg": 210, 
+    "_byte[5]": 16, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-07-19T13:30:40 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-07-19T13:30:40-07:00", 
+    "_body": "00500932641000000009000782", 
+    "bg_target_high": 130, 
+    "sensitivity": 50, 
+    "carb_ratio": 9, 
+    "food_estimate": 0.0, 
+    "unabsorbed_insulin_total": 0.9, 
+    "correction_estimate": 0.0, 
+    "carb_input": 0, 
+    "_head": "5bd2", 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "bolus_estimate": 0.7, 
+    "_date": "68de0d1310", 
+    "bg_target_low": 100
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-07-19T13:30:27 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-07-19T13:30:27-07:00", 
+    "_body": "", 
+    "_head": "0ad2", 
+    "amount": 210, 
+    "_date": "5bde2d1310"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2016-07-19T13:28:05 head[2], body[0] op[0x16]", 
     "timestamp": "2016-07-19T13:28:05-07:00", 
